@@ -1,0 +1,4618 @@
+[
+  {
+    "kyujitai": [
+      "堊"
+    ],
+    "shinjitai": [
+      "亜"
+    ],
+    "affectedWords": [
+      "白亜"
+    ]
+  },
+  {
+    "kyujitai": [
+      "啞",
+      "唖"
+    ],
+    "shinjitai": [
+      "亜"
+    ],
+    "affectedWords": [
+      "亜鈴"
+    ]
+  },
+  {
+    "kyujitai": [
+      "遏"
+    ],
+    "shinjitai": [
+      "圧"
+    ],
+    "affectedWords": [
+      "禁圧",
+      "抑圧",
+      "圧絶"
+    ]
+  },
+  {
+    "kyujitai": [
+      "諳"
+    ],
+    "shinjitai": [
+      "暗"
+    ],
+    "affectedWords": [
+      "暗記",
+      "暗唱",
+      "暗譜",
+      "暗算"
+    ]
+  },
+  {
+    "kyujitai": [
+      "闇"
+    ],
+    "shinjitai": [
+      "暗"
+    ],
+    "affectedWords": [
+      "暗黒",
+      "黒暗",
+      "暗夜",
+      "幽暗",
+      "冥暗"
+    ]
+  },
+  {
+    "kyujitai": [
+      "黯"
+    ],
+    "shinjitai": [
+      "暗"
+    ],
+    "affectedWords": [
+      "暗然"
+    ]
+  },
+  {
+    "kyujitai": [
+      "按"
+    ],
+    "shinjitai": [
+      "案"
+    ],
+    "affectedWords": [
+      "案ず",
+      "案じ",
+      "案分",
+      "案配"
+    ]
+  },
+  {
+    "kyujitai": [
+      "已"
+    ],
+    "shinjitai": [
+      "以"
+    ],
+    "affectedWords": [
+      "以前",
+      "以後",
+      "以降",
+      "以上",
+      "以下"
+    ]
+  },
+  {
+    "kyujitai": [
+      "萎"
+    ],
+    "shinjitai": [
+      "委"
+    ],
+    "affectedWords": [
+      "委縮",
+      "委靡"
+    ]
+  },
+  {
+    "kyujitai": [
+      "依"
+    ],
+    "shinjitai": [
+      "意"
+    ],
+    "affectedWords": [
+      "意固地"
+    ]
+  },
+  {
+    "kyujitai": [
+      "佚"
+    ],
+    "shinjitai": [
+      "逸"
+    ],
+    "affectedWords": [
+      "安逸",
+      "逸書",
+      "逸文",
+      "逸詩",
+      "放逸",
+      "逸楽",
+      "逸遊",
+      "淫逸",
+      "散逸",
+      "驕逸"
+    ]
+  },
+  {
+    "kyujitai": [
+      "陰"
+    ],
+    "shinjitai": [
+      "蔭"
+    ],
+    "affectedWords": [
+      "庇陰",
+      "陰子",
+      "柳陰",
+      "樹陰",
+      "涼陰"
+    ]
+  },
+  {
+    "kyujitai": [
+      "湮",
+      "堙"
+    ],
+    "shinjitai": [
+      "隠"
+    ],
+    "affectedWords": [
+      "隠滅",
+      "隠没"
+    ]
+  },
+  {
+    "kyujitai": [
+      "耘"
+    ],
+    "shinjitai": [
+      "運"
+    ],
+    "affectedWords": [
+      "耕運"
+    ]
+  },
+  {
+    "kyujitai": [
+      "穎",
+      "頴"
+    ],
+    "shinjitai": [
+      "英"
+    ],
+    "affectedWords": [
+      "英才",
+      "秀英",
+      "才英",
+      "英悟"
+    ]
+  },
+  {
+    "kyujitai": [
+      "叡"
+    ],
+    "shinjitai": [
+      "英"
+    ],
+    "affectedWords": [
+      "英知"
+    ]
+  },
+  {
+    "kyujitai": [
+      "翳"
+    ],
+    "shinjitai": [
+      "影"
+    ],
+    "affectedWords": [
+      "暗影",
+      "陰影"
+    ]
+  },
+  {
+    "kyujitai": [
+      "焰",
+      "焔"
+    ],
+    "shinjitai": [
+      "炎"
+    ],
+    "affectedWords": [
+      "火炎",
+      "気炎",
+      "防炎",
+      "光炎",
+      "炎色",
+      "余炎",
+      "炎心",
+      "勢炎"
+    ]
+  },
+  {
+    "kyujitai": [
+      "焰"
+    ],
+    "shinjitai": [
+      "煙"
+    ],
+    "affectedWords": [
+      "煙硝"
+    ]
+  },
+  {
+    "kyujitai": [
+      "掩"
+    ],
+    "shinjitai": [
+      "援"
+    ],
+    "affectedWords": [
+      "援護"
+    ]
+  },
+  {
+    "kyujitai": [
+      "捐"
+    ],
+    "shinjitai": [
+      "援"
+    ],
+    "affectedWords": [
+      "義援"
+    ]
+  },
+  {
+    "kyujitai": [
+      "苑"
+    ],
+    "shinjitai": [
+      "園"
+    ],
+    "affectedWords": [
+      "禁園",
+      "墓苑",
+      "御園",
+      "霊園",
+      "園地",
+      "園池"
+    ]
+  },
+  {
+    "kyujitai": [
+      "衍"
+    ],
+    "shinjitai": [
+      "延"
+    ],
+    "affectedWords": [
+      "敷延"
+    ]
+  },
+  {
+    "kyujitai": [
+      "臆"
+    ],
+    "shinjitai": [
+      "憶"
+    ],
+    "affectedWords": [
+      "憶病",
+      "憶測",
+      "憶断",
+      "憶説",
+      "憶す",
+      "憶し"
+    ]
+  },
+  {
+    "kyujitai": [
+      "嘉"
+    ],
+    "shinjitai": [
+      "佳"
+    ],
+    "affectedWords": [
+      "佳日",
+      "佳辰",
+      "佳節",
+      "佳例",
+      "佳肴",
+      "佳賞"
+    ]
+  },
+  {
+    "kyujitai": [
+      "潰"
+    ],
+    "shinjitai": [
+      "壊"
+    ],
+    "affectedWords": [
+      "壊走",
+      "壊滅",
+      "壊乱",
+      "決壊",
+      "倒壊",
+      "全壊",
+      "半壊",
+      "崩壊"
+    ]
+  },
+  {
+    "kyujitai": [
+      "誡"
+    ],
+    "shinjitai": [
+      "戒"
+    ],
+    "affectedWords": [
+      "戒告",
+      "戒飭",
+      "遺戒",
+      "訓戒",
+      "教戒"
+    ]
+  },
+  {
+    "kyujitai": [
+      "誨"
+    ],
+    "shinjitai": [
+      "戒"
+    ],
+    "affectedWords": [
+      "戒淫",
+      "教戒",
+      "訓戒"
+    ]
+  },
+  {
+    "kyujitai": [
+      "廻"
+    ],
+    "shinjitai": [
+      "回"
+    ],
+    "affectedWords": [
+      "回廊",
+      "回航",
+      "回国",
+      "回旋",
+      "回覧",
+      "回流",
+      "回転",
+      "回天",
+      "回心",
+      "回向",
+      "回船",
+      "回状",
+      "御回",
+      "里回",
+      "浦回",
+      "磯回",
+      "裾回"
+    ]
+  },
+  {
+    "kyujitai": [
+      "蛔"
+    ],
+    "shinjitai": [
+      "回"
+    ],
+    "affectedWords": [
+      "回虫"
+    ]
+  },
+  {
+    "kyujitai": [
+      "恢"
+    ],
+    "shinjitai": [
+      "回"
+    ],
+    "affectedWords": [
+      "回復"
+    ]
+  },
+  {
+    "kyujitai": [
+      "徊"
+    ],
+    "shinjitai": [
+      "回"
+    ],
+    "affectedWords": [
+      "低回"
+    ]
+  },
+  {
+    "kyujitai": [
+      "洄"
+    ],
+    "shinjitai": [
+      "回"
+    ],
+    "affectedWords": [
+      "回遊"
+    ]
+  },
+  {
+    "kyujitai": [
+      "穎"
+    ],
+    "shinjitai": [
+      "貝"
+    ],
+    "affectedWords": [
+      "貝割"
+    ]
+  },
+  {
+    "kyujitai": [
+      "碍",
+      "礙"
+    ],
+    "shinjitai": [
+      "害"
+    ],
+    "affectedWords": [
+      "障害",
+      "阻害",
+      "妨害"
+    ]
+  },
+  {
+    "kyujitai": [
+      "痎"
+    ],
+    "shinjitai": [
+      "咳"
+    ],
+    "affectedWords": [
+      "労咳"
+    ]
+  },
+  {
+    "kyujitai": [
+      "劃"
+    ],
+    "shinjitai": [
+      "画"
+    ],
+    "affectedWords": [
+      "画一",
+      "画期",
+      "画定",
+      "画然",
+      "画す",
+      "画し",
+      "企画",
+      "区画",
+      "分画",
+      "参画",
+      "一画",
+      "画時代的"
+    ]
+  },
+  {
+    "kyujitai": [
+      "廓"
+    ],
+    "shinjitai": [
+      "郭"
+    ],
+    "affectedWords": [
+      "郭大",
+      "郭内",
+      "郭外",
+      "外郭",
+      "一郭",
+      "胸郭",
+      "城郭",
+      "遊郭",
+      "輪郭"
+    ]
+  },
+  {
+    "kyujitai": [
+      "廓"
+    ],
+    "shinjitai": [
+      "拡"
+    ],
+    "affectedWords": [
+      "拡大"
+    ]
+  },
+  {
+    "kyujitai": [
+      "挌"
+    ],
+    "shinjitai": [
+      "格"
+    ],
+    "affectedWords": [
+      "格闘",
+      "格殺"
+    ]
+  },
+  {
+    "kyujitai": [
+      "骼"
+    ],
+    "shinjitai": [
+      "格"
+    ],
+    "affectedWords": [
+      "骨格"
+    ]
+  },
+  {
+    "kyujitai": [
+      "攫"
+    ],
+    "shinjitai": [
+      "獲"
+    ],
+    "affectedWords": [
+      "一獲千金"
+    ]
+  },
+  {
+    "kyujitai": [
+      "擱"
+    ],
+    "shinjitai": [
+      "閣"
+    ],
+    "affectedWords": [
+      "閣筆"
+    ]
+  },
+  {
+    "kyujitai": [
+      "恰"
+    ],
+    "shinjitai": [
+      "格"
+    ],
+    "affectedWords": [
+      "格好",
+      "格幅"
+    ]
+  },
+  {
+    "kyujitai": [
+      "闊",
+      "濶"
+    ],
+    "shinjitai": [
+      "活"
+    ],
+    "affectedWords": [
+      "快活"
+    ]
+  },
+  {
+    "kyujitai": [
+      "旱"
+    ],
+    "shinjitai": [
+      "干"
+    ],
+    "affectedWords": [
+      "干害",
+      "干魃",
+      "干天"
+    ]
+  },
+  {
+    "kyujitai": [
+      "杆"
+    ],
+    "shinjitai": [
+      "干"
+    ],
+    "affectedWords": [
+      "欄干"
+    ]
+  },
+  {
+    "kyujitai": [
+      "翰"
+    ],
+    "shinjitai": [
+      "簡"
+    ],
+    "affectedWords": [
+      "書簡",
+      "手簡",
+      "貴簡",
+      "寸簡",
+      "返簡",
+      "来簡",
+      "残簡",
+      "玉簡"
+    ]
+  },
+  {
+    "kyujitai": [
+      "嵌"
+    ],
+    "shinjitai": [
+      "眼"
+    ],
+    "affectedWords": [
+      "象眼"
+    ]
+  },
+  {
+    "kyujitai": [
+      "驩"
+    ],
+    "shinjitai": [
+      "歓"
+    ],
+    "affectedWords": [
+      "交歓"
+    ]
+  },
+  {
+    "kyujitai": [
+      "函"
+    ],
+    "shinjitai": [
+      "関"
+    ],
+    "affectedWords": [
+      "関数"
+    ]
+  },
+  {
+    "kyujitai": [
+      "疳"
+    ],
+    "shinjitai": [
+      "甲"
+    ],
+    "affectedWords": [
+      "甲高"
+    ]
+  },
+  {
+    "kyujitai": [
+      "巖",
+      "巌"
+    ],
+    "shinjitai": [
+      "岩"
+    ],
+    "affectedWords": [
+      "岩窟",
+      "岩頭",
+      "岩穴",
+      "岩壁",
+      "岩稜",
+      "岩石",
+      "石岩",
+      "巨岩",
+      "奇岩"
+    ]
+  },
+  {
+    "kyujitai": [
+      "玩",
+      "翫"
+    ],
+    "shinjitai": [
+      "含"
+    ],
+    "affectedWords": [
+      "含味"
+    ]
+  },
+  {
+    "shinjitai": [
+      "希"
+    ],
+    "kyujitai": [
+      "稀"
+    ],
+    "affectedWords": [
+      "希少",
+      "希薄",
+      "希釈",
+      "希有",
+      "希世",
+      "希代",
+      "希書",
+      "古希",
+      "希塩酸",
+      "希土類",
+      "希硫酸",
+      "希元素"
+    ]
+  },
+  {
+    "shinjitai": [
+      "机"
+    ],
+    "kyujitai": [
+      "几"
+    ],
+    "affectedWords": [
+      "明窓浄机",
+      "床机",
+      "机上",
+      "机下",
+      "机案"
+    ]
+  },
+  {
+    "shinjitai": [
+      "希"
+    ],
+    "kyujitai": [
+      "冀"
+    ],
+    "affectedWords": [
+      "希求",
+      "希図",
+      "希望",
+      "希う"
+    ]
+  },
+  {
+    "shinjitai": [
+      "飢"
+    ],
+    "kyujitai": [
+      "饑"
+    ],
+    "affectedWords": [
+      "飢餓",
+      "飢饉",
+      "飢寒",
+      "飢渇"
+    ]
+  },
+  {
+    "shinjitai": [
+      "棄"
+    ],
+    "kyujitai": [
+      "毀"
+    ],
+    "affectedWords": [
+      "棄損",
+      "棄釈",
+      "破棄"
+    ]
+  },
+  {
+    "shinjitai": [
+      "記"
+    ],
+    "kyujitai": [
+      "徽"
+    ],
+    "affectedWords": [
+      "記章"
+    ]
+  },
+  {
+    "shinjitai": [
+      "奇"
+    ],
+    "kyujitai": [
+      "畸"
+    ],
+    "affectedWords": [
+      "奇形",
+      "奇人"
+    ]
+  },
+  {
+    "shinjitai": [
+      "奇"
+    ],
+    "kyujitai": [
+      "綺"
+    ],
+    "affectedWords": [
+      "奇麗",
+      "奇談"
+    ]
+  },
+  {
+    "shinjitai": [
+      "奇"
+    ],
+    "kyujitai": [
+      "詭"
+    ],
+    "affectedWords": [
+      "奇弁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "喜"
+    ],
+    "kyujitai": [
+      "嬉"
+    ],
+    "affectedWords": [
+      "喜遊曲",
+      "喜々"
+    ]
+  },
+  {
+    "shinjitai": [
+      "技"
+    ],
+    "kyujitai": [
+      "伎"
+    ],
+    "affectedWords": [
+      "技能",
+      "技量",
+      "技倆",
+      "技芸",
+      "技癢",
+      "雑技"
+    ]
+  },
+  {
+    "shinjitai": [
+      "宜"
+    ],
+    "kyujitai": [
+      "誼"
+    ],
+    "affectedWords": [
+      "情宜",
+      "友宜"
+    ]
+  },
+  {
+    "shinjitai": [
+      "義"
+    ],
+    "kyujitai": [
+      "誼"
+    ],
+    "affectedWords": [
+      "恩義",
+      "情義",
+      "古義"
+    ]
+  },
+  {
+    "shinjitai": [
+      "疑"
+    ],
+    "kyujitai": [
+      "擬"
+    ],
+    "affectedWords": [
+      "疑似"
+    ]
+  },
+  {
+    "shinjitai": [
+      "喫"
+    ],
+    "kyujitai": [
+      "吃"
+    ],
+    "affectedWords": [
+      "喫緊",
+      "喫水"
+    ]
+  },
+  {
+    "shinjitai": [
+      "詰"
+    ],
+    "kyujitai": [
+      "佶"
+    ],
+    "affectedWords": [
+      "詰屈"
+    ]
+  },
+  {
+    "shinjitai": [
+      "糾"
+    ],
+    "kyujitai": [
+      "鳩"
+    ],
+    "affectedWords": [
+      "糾合"
+    ]
+  },
+  {
+    "shinjitai": [
+      "虚"
+    ],
+    "kyujitai": [
+      "墟"
+    ],
+    "affectedWords": [
+      "廃虚"
+    ]
+  },
+  {
+    "shinjitai": [
+      "拠"
+    ],
+    "kyujitai": [
+      "醵"
+    ],
+    "affectedWords": [
+      "拠出",
+      "拠金"
+    ]
+  },
+  {
+    "shinjitai": [
+      "巨"
+    ],
+    "kyujitai": [
+      "渠"
+    ],
+    "affectedWords": [
+      "巨魁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "御"
+    ],
+    "kyujitai": [
+      "禦"
+    ],
+    "affectedWords": [
+      "防御",
+      "制御"
+    ]
+  },
+  {
+    "shinjitai": [
+      "御"
+    ],
+    "kyujitai": [
+      "馭"
+    ],
+    "affectedWords": [
+      "御者",
+      "制御",
+      "駕御",
+      "統御",
+      "御す",
+      "御し"
+    ]
+  },
+  {
+    "shinjitai": [
+      "凶"
+    ],
+    "kyujitai": [
+      "兇"
+    ],
+    "affectedWords": [
+      "凶悪",
+      "凶器",
+      "凶弾",
+      "凶暴",
+      "凶行",
+      "凶徒",
+      "凶変",
+      "凶漢",
+      "凶刃",
+      "凶状",
+      "凶人",
+      "凶乱",
+      "凶殺",
+      "凶族",
+      "凶賊",
+      "凶犬",
+      "元凶"
+    ]
+  },
+  {
+    "shinjitai": [
+      "境"
+    ],
+    "kyujitai": [
+      "疆"
+    ],
+    "affectedWords": [
+      "境界",
+      "境土",
+      "境域",
+      "辺境"
+    ]
+  },
+  {
+    "shinjitai": [
+      "挟"
+    ],
+    "kyujitai": [
+      "夾"
+    ],
+    "affectedWords": [
+      "挟撃",
+      "挟攻",
+      "挟角",
+      "挟辺"
+    ]
+  },
+  {
+    "shinjitai": [
+      "恐"
+    ],
+    "kyujitai": [
+      "兢"
+    ],
+    "affectedWords": [
+      "恐々",
+      "恐恐"
+    ]
+  },
+  {
+    "shinjitai": [
+      "強"
+    ],
+    "kyujitai": [
+      "鞏"
+    ],
+    "affectedWords": [
+      "強固",
+      "強膜"
+    ]
+  },
+  {
+    "shinjitai": [
+      "供"
+    ],
+    "kyujitai": [
+      "饗"
+    ],
+    "affectedWords": [
+      "供宴",
+      "供応"
+    ]
+  },
+  {
+    "shinjitai": [
+      "矯"
+    ],
+    "kyujitai": [
+      "匡"
+    ],
+    "affectedWords": [
+      "矯正"
+    ]
+  },
+  {
+    "shinjitai": [
+      "向"
+    ],
+    "kyujitai": [
+      "嚮"
+    ],
+    "affectedWords": [
+      "向後",
+      "意向",
+      "影向"
+    ]
+  },
+  {
+    "shinjitai": [
+      "襟"
+    ],
+    "kyujitai": [
+      "衿"
+    ],
+    "affectedWords": [
+      "襟帯",
+      "上襟",
+      "青襟",
+      "開襟"
+    ]
+  },
+  {
+    "shinjitai": [
+      "勤"
+    ],
+    "kyujitai": [
+      "覲"
+    ],
+    "affectedWords": [
+      "参勤交代"
+    ]
+  },
+  {
+    "shinjitai": [
+      "屈"
+    ],
+    "kyujitai": [
+      "窟"
+    ],
+    "affectedWords": [
+      "理屈"
+    ]
+  },
+  {
+    "shinjitai": [
+      "薫"
+    ],
+    "kyujitai": [
+      "燻"
+    ],
+    "affectedWords": [
+      "薫製",
+      "薫蒸",
+      "薫煙"
+    ]
+  },
+  {
+    "shinjitai": [
+      "係"
+    ],
+    "kyujitai": [
+      "繫",
+      "繋"
+    ],
+    "affectedWords": [
+      "係争",
+      "係船",
+      "係泊",
+      "係岸",
+      "係属",
+      "係留",
+      "係累",
+      "係争",
+      "係属",
+      "連係"
+    ]
+  },
+  {
+    "shinjitai": [
+      "激"
+    ],
+    "kyujitai": [
+      "戟"
+    ],
+    "affectedWords": [
+      "刺激"
+    ]
+  },
+  {
+    "shinjitai": [
+      "欠"
+    ],
+    "kyujitai": [
+      "闕"
+    ],
+    "affectedWords": [
+      "欠字",
+      "欠画",
+      "欠如",
+      "欠文",
+      "欠本",
+      "欠失",
+      "欠官",
+      "欠漏",
+      "欠略",
+      "欠減",
+      "残欠"
+    ]
+  },
+  {
+    "shinjitai": [
+      "欠"
+    ],
+    "kyujitai": [
+      "歇"
+    ],
+    "affectedWords": [
+      "間欠"
+    ]
+  },
+  {
+    "shinjitai": [
+      "決"
+    ],
+    "kyujitai": [
+      "訣"
+    ],
+    "affectedWords": [
+      "決別"
+    ]
+  },
+  {
+    "shinjitai": [
+      "決"
+    ],
+    "kyujitai": [
+      "蹶"
+    ],
+    "affectedWords": [
+      "決起"
+    ]
+  },
+  {
+    "shinjitai": [
+      "険"
+    ],
+    "kyujitai": [
+      "嶮"
+    ],
+    "affectedWords": [
+      "峻険",
+      "険難",
+      "険所",
+      "険阻",
+      "険路",
+      "険要",
+      "険峻",
+      "天険",
+      "険し",
+      "天下の険"
+    ]
+  },
+  {
+    "shinjitai": [
+      "謙"
+    ],
+    "kyujitai": [
+      "虔"
+    ],
+    "affectedWords": [
+      "敬謙"
+    ]
+  },
+  {
+    "shinjitai": [
+      "肩"
+    ],
+    "kyujitai": [
+      "痃"
+    ],
+    "affectedWords": [
+      "肩癖"
+    ]
+  },
+  {
+    "shinjitai": [
+      "険"
+    ],
+    "kyujitai": [
+      "慳"
+    ],
+    "affectedWords": [
+      "邪険"
+    ]
+  },
+  {
+    "shinjitai": [
+      "倹"
+    ],
+    "kyujitai": [
+      "慳"
+    ],
+    "affectedWords": [
+      "倹吝",
+      "倹飩"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弦"
+    ],
+    "kyujitai": [
+      "絃"
+    ],
+    "affectedWords": [
+      "弦歌",
+      "弦楽",
+      "三弦",
+      "管弦",
+      "管弦",
+      "調弦",
+      "断弦",
+      "小弦",
+      "下弦",
+      "上弦"
+    ]
+  },
+  {
+    "shinjitai": [
+      "厳"
+    ],
+    "kyujitai": [
+      "儼"
+    ],
+    "affectedWords": [
+      "厳然",
+      "厳と"
+    ]
+  },
+  {
+    "shinjitai": [
+      "幻"
+    ],
+    "kyujitai": [
+      "眩"
+    ],
+    "affectedWords": [
+      "幻惑"
+    ]
+  },
+  {
+    "kyujitai": [
+      "怙"
+    ],
+    "shinjitai": [
+      "固"
+    ],
+    "affectedWords": [
+      "意固地"
+    ]
+  },
+  {
+    "shinjitai": [
+      "固"
+    ],
+    "kyujitai": [
+      "乎"
+    ],
+    "affectedWords": [
+      "断固",
+      "確固",
+      "牢固"
+    ]
+  },
+  {
+    "shinjitai": [
+      "固"
+    ],
+    "kyujitai": [
+      "錮"
+    ],
+    "affectedWords": [
+      "禁固"
+    ]
+  },
+  {
+    "shinjitai": [
+      "枯"
+    ],
+    "kyujitai": [
+      "涸"
+    ],
+    "affectedWords": [
+      "枯渇"
+    ]
+  },
+  {
+    "shinjitai": [
+      "後"
+    ],
+    "kyujitai": [
+      "伍"
+    ],
+    "affectedWords": [
+      "落後"
+    ]
+  },
+  {
+    "shinjitai": [
+      "幸"
+    ],
+    "kyujitai": [
+      "倖"
+    ],
+    "affectedWords": [
+      "射幸心",
+      "薄幸"
+    ]
+  },
+  {
+    "shinjitai": [
+      "興"
+    ],
+    "kyujitai": [
+      "昂",
+      "亢"
+    ],
+    "affectedWords": [
+      "興奮"
+    ]
+  },
+  {
+    "shinjitai": [
+      "広"
+    ],
+    "kyujitai": [
+      "弘"
+    ],
+    "affectedWords": [
+      "広報"
+    ]
+  },
+  {
+    "shinjitai": [
+      "広"
+    ],
+    "kyujitai": [
+      "曠"
+    ],
+    "affectedWords": [
+      "広野"
+    ]
+  },
+  {
+    "shinjitai": [
+      "広"
+    ],
+    "kyujitai": [
+      "宏"
+    ],
+    "affectedWords": [
+      "広遠",
+      "広大",
+      "広漠",
+      "広壮",
+      "広量",
+      "広才"
+    ]
+  },
+  {
+    "shinjitai": [
+      "考"
+    ],
+    "kyujitai": [
+      "衡"
+    ],
+    "affectedWords": [
+      "選考"
+    ]
+  },
+  {
+    "shinjitai": [
+      "控"
+    ],
+    "kyujitai": [
+      "扣"
+    ],
+    "affectedWords": [
+      "控除",
+      "控え"
+    ]
+  },
+  {
+    "shinjitai": [
+      "口"
+    ],
+    "kyujitai": [
+      "巧"
+    ],
+    "affectedWords": [
+      "利口"
+    ]
+  },
+  {
+    "shinjitai": [
+      "更"
+    ],
+    "kyujitai": [
+      "甦"
+    ],
+    "affectedWords": [
+      "更生"
+    ]
+  },
+  {
+    "shinjitai": [
+      "講"
+    ],
+    "kyujitai": [
+      "媾"
+    ],
+    "affectedWords": [
+      "講和"
+    ]
+  },
+  {
+    "shinjitai": [
+      "鉱"
+    ],
+    "kyujitai": [
+      "礦",
+      "砿"
+    ],
+    "affectedWords": [
+      "鉱業",
+      "炭鉱"
+    ]
+  },
+  {
+    "shinjitai": [
+      "交"
+    ],
+    "kyujitai": [
+      "淆"
+    ],
+    "affectedWords": [
+      "混交"
+    ]
+  },
+  {
+    "shinjitai": [
+      "硬"
+    ],
+    "kyujitai": [
+      "鯁"
+    ],
+    "affectedWords": [
+      "硬骨"
+    ]
+  },
+  {
+    "shinjitai": [
+      "拘"
+    ],
+    "kyujitai": [
+      "勾"
+    ],
+    "affectedWords": [
+      "拘引"
+    ]
+  },
+  {
+    "shinjitai": [
+      "考"
+    ],
+    "kyujitai": [
+      "攷"
+    ],
+    "affectedWords": [
+      "論考"
+    ]
+  },
+  {
+    "shinjitai": [
+      "高"
+    ],
+    "kyujitai": [
+      "昂"
+    ],
+    "affectedWords": [
+      "高揚",
+      "高騰",
+      "高進",
+      "激高"
+    ]
+  },
+  {
+    "shinjitai": [
+      "高"
+    ],
+    "kyujitai": [
+      "亢"
+    ],
+    "affectedWords": [
+      "高進"
+    ]
+  },
+  {
+    "shinjitai": [
+      "高",
+      "洪"
+    ],
+    "kyujitai": [
+      "鴻"
+    ],
+    "affectedWords": [
+      "高恩"
+    ]
+  },
+  {
+    "shinjitai": [
+      "豪"
+    ],
+    "kyujitai": [
+      "濠"
+    ],
+    "affectedWords": [
+      "豪州",
+      "濠太剌利"
+    ]
+  },
+  {
+    "shinjitai": [
+      "強"
+    ],
+    "kyujitai": [
+      "嗷"
+    ],
+    "affectedWords": [
+      "強訴"
+    ]
+  },
+  {
+    "shinjitai": [
+      "克"
+    ],
+    "kyujitai": [
+      "剋"
+    ],
+    "affectedWords": [
+      "下克上",
+      "相克"
+    ]
+  },
+  {
+    "shinjitai": [
+      "石"
+    ],
+    "kyujitai": [
+      "斛"
+    ],
+    "affectedWords": [
+      "千石",
+      "万石"
+    ]
+  },
+  {
+    "shinjitai": [
+      "混"
+    ],
+    "kyujitai": [
+      "渾"
+    ],
+    "affectedWords": [
+      "混然",
+      "混沌",
+      "混一",
+      "混々",
+      "混混"
+    ]
+  },
+  {
+    "shinjitai": [
+      "混"
+    ],
+    "kyujitai": [
+      "昏"
+    ],
+    "affectedWords": [
+      "混迷"
+    ]
+  },
+  {
+    "shinjitai": [
+      "混"
+    ],
+    "kyujitai": [
+      "溷"
+    ],
+    "affectedWords": [
+      "混濁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "懇"
+    ],
+    "kyujitai": [
+      "悃"
+    ],
+    "affectedWords": [
+      "懇望",
+      "懇願",
+      "懇款"
+    ]
+  },
+  {
+    "shinjitai": [
+      "差"
+    ],
+    "kyujitai": [
+      "叉"
+    ],
+    "affectedWords": [
+      "交差",
+      "三差路"
+    ]
+  },
+  {
+    "shinjitai": [
+      "砂"
+    ],
+    "kyujitai": [
+      "沙"
+    ],
+    "affectedWords": [
+      "砂漠"
+    ]
+  },
+  {
+    "shinjitai": [
+      "座"
+    ],
+    "kyujitai": [
+      "坐"
+    ],
+    "affectedWords": [
+      "座高",
+      "座骨",
+      "座薬",
+      "座禅",
+      "座礁",
+      "座礼",
+      "座卓",
+      "座法",
+      "座学",
+      "正座",
+      "円座",
+      "座す",
+      "座椅子",
+      "土下座"
+    ]
+  },
+  {
+    "shinjitai": [
+      "砕"
+    ],
+    "kyujitai": [
+      "摧"
+    ],
+    "affectedWords": [
+      "破砕"
+    ]
+  },
+  {
+    "shinjitai": [
+      "裁"
+    ],
+    "kyujitai": [
+      "截"
+    ],
+    "affectedWords": [
+      "裁断",
+      "半裁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "削"
+    ],
+    "kyujitai": [
+      "鑿"
+    ],
+    "affectedWords": [
+      "削岩",
+      "開削",
+      "掘削"
+    ]
+  },
+  {
+    "shinjitai": [
+      "酢"
+    ],
+    "kyujitai": [
+      "醋"
+    ],
+    "affectedWords": [
+      "酢母",
+      "酢酸",
+      "木酢"
+    ]
+  },
+  {
+    "shinjitai": [
+      "賛"
+    ],
+    "kyujitai": [
+      "讚",
+      "讃"
+    ],
+    "affectedWords": [
+      "賛辞",
+      "賛美",
+      "賛歌",
+      "賛嘆",
+      "画賛",
+      "自賛",
+      "賞賛",
+      "絶賛",
+      "礼賛"
+    ]
+  },
+  {
+    "shinjitai": [
+      "散"
+    ],
+    "kyujitai": [
+      "撒"
+    ],
+    "affectedWords": [
+      "散布",
+      "散水"
+    ]
+  },
+  {
+    "shinjitai": [
+      "散"
+    ],
+    "kyujitai": [
+      "霰"
+    ],
+    "affectedWords": [
+      "散弾"
+    ]
+  },
+  {
+    "shinjitai": [
+      "死"
+    ],
+    "kyujitai": [
+      "屍"
+    ],
+    "affectedWords": [
+      "死骸",
+      "死斑",
+      "死肉",
+      "死臭",
+      "死毒",
+      "死体",
+      "検死"
+    ]
+  },
+  {
+    "shinjitai": [
+      "子"
+    ],
+    "kyujitai": [
+      "仔"
+    ],
+    "affectedWords": [
+      "子細"
+    ]
+  },
+  {
+    "shinjitai": [
+      "事"
+    ],
+    "kyujitai": [
+      "餌"
+    ],
+    "affectedWords": [
+      "食事療法"
+    ]
+  },
+  {
+    "shinjitai": [
+      "磁"
+    ],
+    "kyujitai": [
+      "瓷",
+      "甆"
+    ],
+    "affectedWords": [
+      "青磁",
+      "白磁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "謝"
+    ],
+    "kyujitai": [
+      "藉"
+    ],
+    "affectedWords": [
+      "慰謝"
+    ]
+  },
+  {
+    "shinjitai": [
+      "酌"
+    ],
+    "kyujitai": [
+      "妁"
+    ],
+    "affectedWords": [
+      "媒酌"
+    ]
+  },
+  {
+    "shinjitai": [
+      "朱"
+    ],
+    "kyujitai": [
+      "繻"
+    ],
+    "affectedWords": [
+      "朱珍"
+    ]
+  },
+  {
+    "shinjitai": [
+      "朱"
+    ],
+    "kyujitai": [
+      "侏"
+    ],
+    "affectedWords": [
+      "朱儒"
+    ]
+  },
+  {
+    "shinjitai": [
+      "州"
+    ],
+    "kyujitai": [
+      "洲"
+    ],
+    "affectedWords": [
+      "豪州",
+      "四州",
+      "汀州",
+      "何州",
+      "満州",
+      "州浜",
+      "五大州",
+      "三角州"
+    ]
+  },
+  {
+    "shinjitai": [
+      "収"
+    ],
+    "kyujitai": [
+      "蒐"
+    ],
+    "affectedWords": [
+      "収集"
+    ]
+  },
+  {
+    "shinjitai": [
+      "集"
+    ],
+    "kyujitai": [
+      "蒐"
+    ],
+    "affectedWords": [
+      "集荷",
+      "集書"
+    ]
+  },
+  {
+    "shinjitai": [
+      "集"
+    ],
+    "kyujitai": [
+      "聚"
+    ],
+    "affectedWords": [
+      "集落",
+      "群集",
+      "凝集",
+      "積集"
+    ]
+  },
+  {
+    "shinjitai": [
+      "集"
+    ],
+    "kyujitai": [
+      "輯"
+    ],
+    "affectedWords": [
+      "集録",
+      "編集",
+      "特集"
+    ]
+  },
+  {
+    "shinjitai": [
+      "俊"
+    ],
+    "kyujitai": [
+      "駿"
+    ],
+    "affectedWords": [
+      "俊才",
+      "俊足",
+      "俊馬",
+      "優俊"
+    ]
+  },
+  {
+    "shinjitai": [
+      "俊"
+    ],
+    "kyujitai": [
+      "儁"
+    ],
+    "affectedWords": [
+      "俊秀",
+      "俊異"
+    ]
+  },
+  {
+    "shinjitai": [
+      "純"
+    ],
+    "kyujitai": [
+      "醇"
+    ],
+    "affectedWords": [
+      "芳純"
+    ]
+  },
+  {
+    "shinjitai": [
+      "順"
+    ],
+    "kyujitai": [
+      "馴"
+    ],
+    "affectedWords": [
+      "順化"
+    ]
+  },
+  {
+    "shinjitai": [
+      "純"
+    ],
+    "kyujitai": [
+      "淳",
+      "醇"
+    ],
+    "affectedWords": [
+      "純朴"
+    ]
+  },
+  {
+    "shinjitai": [
+      "叙"
+    ],
+    "kyujitai": [
+      "抒",
+      "舒"
+    ],
+    "affectedWords": [
+      "叙情"
+    ]
+  },
+  {
+    "shinjitai": [
+      "消"
+    ],
+    "kyujitai": [
+      "銷"
+    ],
+    "affectedWords": [
+      "消沈",
+      "消夏",
+      "消暑",
+      "消却",
+      "消失",
+      "消魂"
+    ]
+  },
+  {
+    "shinjitai": [
+      "唱"
+    ],
+    "kyujitai": [
+      "誦"
+    ],
+    "affectedWords": [
+      "復唱",
+      "暗唱",
+      "吟唱",
+      "口唱",
+      "朗唱",
+      "栄唱"
+    ]
+  },
+  {
+    "shinjitai": [
+      "唱"
+    ],
+    "kyujitai": [
+      "倡"
+    ],
+    "affectedWords": [
+      "唱和",
+      "一唱",
+      "夫唱婦随"
+    ]
+  },
+  {
+    "shinjitai": [
+      "昇"
+    ],
+    "kyujitai": [
+      "陞"
+    ],
+    "affectedWords": [
+      "昇任",
+      "昇叙",
+      "昇進",
+      "昇等"
+    ]
+  },
+  {
+    "shinjitai": [
+      "装"
+    ],
+    "kyujitai": [
+      "裳"
+    ],
+    "affectedWords": [
+      "衣装"
+    ]
+  },
+  {
+    "shinjitai": [
+      "障"
+    ],
+    "kyujitai": [
+      "牆",
+      "墻"
+    ],
+    "affectedWords": [
+      "障壁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "盛"
+    ],
+    "kyujitai": [
+      "昌"
+    ],
+    "affectedWords": [
+      "繁盛"
+    ]
+  },
+  {
+    "shinjitai": [
+      "荘"
+    ],
+    "kyujitai": [
+      "庄"
+    ],
+    "affectedWords": [
+      "荘園",
+      "荘官",
+      "荘家"
+    ]
+  },
+  {
+    "shinjitai": [
+      "称"
+    ],
+    "kyujitai": [
+      "秤"
+    ],
+    "affectedWords": [
+      "称量"
+    ]
+  },
+  {
+    "shinjitai": [
+      "浄"
+    ],
+    "kyujitai": [
+      "滌"
+    ],
+    "affectedWords": [
+      "洗浄"
+    ]
+  },
+  {
+    "shinjitai": [
+      "冗"
+    ],
+    "kyujitai": [
+      "饒"
+    ],
+    "affectedWords": [
+      "冗舌"
+    ]
+  },
+  {
+    "shinjitai": [
+      "条"
+    ],
+    "kyujitai": [
+      "絛"
+    ],
+    "affectedWords": [
+      "条虫"
+    ]
+  },
+  {
+    "shinjitai": [
+      "触"
+    ],
+    "kyujitai": [
+      "觝"
+    ],
+    "affectedWords": [
+      "抵触"
+    ]
+  },
+  {
+    "shinjitai": [
+      "食"
+    ],
+    "kyujitai": [
+      "蝕"
+    ],
+    "affectedWords": [
+      "日食",
+      "侵食",
+      "浸食",
+      "月食",
+      "腐食",
+      "風食",
+      "耐食",
+      "防食",
+      "氷食",
+      "食害",
+      "食尽",
+      "皆既食",
+      "金環食"
+    ]
+  },
+  {
+    "shinjitai": [
+      "浸"
+    ],
+    "kyujitai": [
+      "滲"
+    ],
+    "affectedWords": [
+      "浸透",
+      "浸炭"
+    ]
+  },
+  {
+    "shinjitai": [
+      "針"
+    ],
+    "kyujitai": [
+      "鍼"
+    ],
+    "affectedWords": [
+      "針灸",
+      "針術"
+    ]
+  },
+  {
+    "shinjitai": [
+      "心"
+    ],
+    "kyujitai": [
+      "腎"
+    ],
+    "affectedWords": [
+      "肝心"
+    ]
+  },
+  {
+    "shinjitai": [
+      "尋"
+    ],
+    "kyujitai": [
+      "訊"
+    ],
+    "affectedWords": [
+      "尋問",
+      "審尋"
+    ]
+  },
+  {
+    "shinjitai": [
+      "尽"
+    ],
+    "kyujitai": [
+      "甚"
+    ],
+    "affectedWords": [
+      "食尽"
+    ]
+  },
+  {
+    "shinjitai": [
+      "粋"
+    ],
+    "kyujitai": [
+      "萃"
+    ],
+    "affectedWords": [
+      "抜粋"
+    ]
+  },
+  {
+    "shinjitai": [
+      "生"
+    ],
+    "kyujitai": [
+      "棲",
+      "栖"
+    ],
+    "affectedWords": [
+      "生息",
+      "共生",
+      "水生",
+      "群生",
+      "陸生",
+      "両生"
+    ]
+  },
+  {
+    "shinjitai": [
+      "跡"
+    ],
+    "kyujitai": [
+      "蹟"
+    ],
+    "affectedWords": [
+      "奇跡",
+      "遺跡",
+      "偉跡",
+      "旧跡",
+      "筆跡",
+      "戦跡",
+      "史跡",
+      "手跡",
+      "古跡",
+      "秘跡",
+      "名跡"
+    ]
+  },
+  {
+    "shinjitai": [
+      "切"
+    ],
+    "kyujitai": [
+      "截"
+    ],
+    "affectedWords": [
+      "切断",
+      "切枝",
+      "断切",
+      "半切",
+      "自切"
+    ]
+  },
+  {
+    "shinjitai": [
+      "扇"
+    ],
+    "kyujitai": [
+      "煽"
+    ],
+    "affectedWords": [
+      "扇動"
+    ]
+  },
+  {
+    "shinjitai": [
+      "専"
+    ],
+    "kyujitai": [
+      "擅"
+    ],
+    "affectedWords": [
+      "専断"
+    ]
+  },
+  {
+    "shinjitai": [
+      "先"
+    ],
+    "kyujitai": [
+      "尖"
+    ],
+    "affectedWords": [
+      "先端",
+      "先兵"
+    ]
+  },
+  {
+    "shinjitai": [
+      "仙"
+    ],
+    "kyujitai": [
+      "箋"
+    ],
+    "affectedWords": [
+      "画仙紙"
+    ]
+  },
+  {
+    "shinjitai": [
+      "仙"
+    ],
+    "kyujitai": [
+      "僊"
+    ],
+    "affectedWords": [
+      "仙人",
+      "仙者",
+      "上仙",
+      "神仙"
+    ]
+  },
+  {
+    "shinjitai": [
+      "鮮"
+    ],
+    "kyujitai": [
+      "尠"
+    ],
+    "affectedWords": [
+      "鮮少"
+    ]
+  },
+  {
+    "shinjitai": [
+      "選"
+    ],
+    "kyujitai": [
+      "撰"
+    ],
+    "affectedWords": [
+      "選集",
+      "選者",
+      "選修",
+      "新選",
+      "勅選",
+      "私選",
+      "官選",
+      "特選"
+    ]
+  },
+  {
+    "shinjitai": [
+      "選"
+    ],
+    "kyujitai": [
+      "籤"
+    ],
+    "affectedWords": [
+      "抽選",
+      "当選"
+    ]
+  },
+  {
+    "shinjitai": [
+      "選"
+    ],
+    "kyujitai": [
+      "銓"
+    ],
+    "affectedWords": [
+      "選考"
+    ]
+  },
+  {
+    "shinjitai": [
+      "疎"
+    ],
+    "kyujitai": [
+      "疏"
+    ],
+    "affectedWords": [
+      "疎水",
+      "疎通",
+      "疎明",
+      "疎達"
+    ]
+  },
+  {
+    "shinjitai": [
+      "阻"
+    ],
+    "kyujitai": [
+      "沮"
+    ],
+    "affectedWords": [
+      "阻喪",
+      "阻止"
+    ]
+  },
+  {
+    "shinjitai": [
+      "阻"
+    ],
+    "kyujitai": [
+      "岨"
+    ],
+    "affectedWords": [
+      "険阻"
+    ]
+  },
+  {
+    "shinjitai": [
+      "総"
+    ],
+    "kyujitai": [
+      "惣"
+    ],
+    "affectedWords": [
+      "総領",
+      "総検校",
+      "総社",
+      "総髪",
+      "総別",
+      "総々",
+      "総総"
+    ]
+  },
+  {
+    "shinjitai": [
+      "総"
+    ],
+    "kyujitai": [
+      "綜"
+    ],
+    "affectedWords": [
+      "総合",
+      "総覧"
+    ]
+  },
+  {
+    "shinjitai": [
+      "燥"
+    ],
+    "kyujitai": [
+      "躁"
+    ],
+    "affectedWords": [
+      "焦燥"
+    ]
+  },
+  {
+    "shinjitai": [
+      "掃"
+    ],
+    "kyujitai": [
+      "剿"
+    ],
+    "affectedWords": [
+      "掃滅"
+    ]
+  },
+  {
+    "shinjitai": [
+      "騒"
+    ],
+    "kyujitai": [
+      "噪"
+    ],
+    "affectedWords": [
+      "喧騒",
+      "騒音"
+    ]
+  },
+  {
+    "shinjitai": [
+      "騒"
+    ],
+    "kyujitai": [
+      "躁"
+    ],
+    "affectedWords": [
+      "狂騒"
+    ]
+  },
+  {
+    "shinjitai": [
+      "巣"
+    ],
+    "kyujitai": [
+      "竈"
+    ],
+    "affectedWords": [
+      "病巣"
+    ]
+  },
+  {
+    "shinjitai": [
+      "倉"
+    ],
+    "kyujitai": [
+      "艙"
+    ],
+    "affectedWords": [
+      "船倉"
+    ]
+  },
+  {
+    "shinjitai": [
+      "倉",
+      "草"
+    ],
+    "kyujitai": [
+      "匆",
+      "怱"
+    ],
+    "affectedWords": [
+      "倉卒"
+    ]
+  },
+  {
+    "shinjitai": [
+      "蔵"
+    ],
+    "kyujitai": [
+      "臧"
+    ],
+    "affectedWords": [
+      "蔵匿"
+    ]
+  },
+  {
+    "shinjitai": [
+      "息"
+    ],
+    "kyujitai": [
+      "熄"
+    ],
+    "affectedWords": [
+      "終息"
+    ]
+  },
+  {
+    "shinjitai": [
+      "族"
+    ],
+    "kyujitai": [
+      "簇"
+    ],
+    "affectedWords": [
+      "族生"
+    ]
+  },
+  {
+    "shinjitai": [
+      "退"
+    ],
+    "kyujitai": [
+      "頽"
+    ],
+    "affectedWords": [
+      "退廃",
+      "退勢",
+      "衰退",
+      "廃退"
+    ]
+  },
+  {
+    "shinjitai": [
+      "退"
+    ],
+    "kyujitai": [
+      "褪"
+    ],
+    "affectedWords": [
+      "退色",
+      "退紅色",
+      "退黄色"
+    ]
+  },
+  {
+    "shinjitai": [
+      "台"
+    ],
+    "kyujitai": [
+      "颱"
+    ],
+    "affectedWords": [
+      "台風"
+    ]
+  },
+  {
+    "shinjitai": [
+      "台"
+    ],
+    "kyujitai": [
+      "擡"
+    ],
+    "affectedWords": [
+      "台頭"
+    ]
+  },
+  {
+    "shinjitai": [
+      "託"
+    ],
+    "kyujitai": [
+      "托"
+    ],
+    "affectedWords": [
+      "負託",
+      "委託",
+      "依託",
+      "託生",
+      "屈託",
+      "請託"
+    ]
+  },
+  {
+    "shinjitai": [
+      "立"
+    ],
+    "kyujitai": [
+      "榻"
+    ],
+    "affectedWords": [
+      "脚立"
+    ]
+  },
+  {
+    "shinjitai": [
+      "嘆"
+    ],
+    "kyujitai": [
+      "歎"
+    ],
+    "affectedWords": [
+      "嘆願",
+      "嘆息",
+      "感嘆",
+      "賛嘆",
+      "感嘆",
+      "驚嘆",
+      "痛嘆",
+      "悲嘆",
+      "慨嘆",
+      "詠嘆",
+      "賞嘆"
+    ]
+  },
+  {
+    "shinjitai": [
+      "単"
+    ],
+    "kyujitai": [
+      "襌"
+    ],
+    "affectedWords": [
+      "単衣"
+    ]
+  },
+  {
+    "shinjitai": [
+      "暖"
+    ],
+    "kyujitai": [
+      "煖"
+    ],
+    "affectedWords": [
+      "暖炉",
+      "暖房",
+      "暖衣",
+      "暖気"
+    ]
+  },
+  {
+    "shinjitai": [
+      "知"
+    ],
+    "kyujitai": [
+      "智"
+    ],
+    "affectedWords": [
+      "知識",
+      "知力",
+      "知能",
+      "知謀",
+      "知恵",
+      "機知",
+      "才知",
+      "無知",
+      "人知",
+      "世知"
+    ]
+  },
+  {
+    "shinjitai": [
+      "注"
+    ],
+    "kyujitai": [
+      "註"
+    ],
+    "affectedWords": [
+      "注釈",
+      "注記",
+      "注解",
+      "注文",
+      "脚注",
+      "訳注",
+      "脚注",
+      "傍注",
+      "特注",
+      "注す",
+      "割り注"
+    ]
+  },
+  {
+    "shinjitai": [
+      "貯"
+    ],
+    "kyujitai": [
+      "儲"
+    ],
+    "affectedWords": [
+      "貯蓄"
+    ]
+  },
+  {
+    "shinjitai": [
+      "貯"
+    ],
+    "kyujitai": [
+      "瀦"
+    ],
+    "affectedWords": [
+      "貯留"
+    ]
+  },
+  {
+    "shinjitai": [
+      "帳"
+    ],
+    "kyujitai": [
+      "帖"
+    ],
+    "affectedWords": [
+      "帳面",
+      "画帳",
+      "手帳",
+      "紋帳"
+    ]
+  },
+  {
+    "shinjitai": [
+      "長"
+    ],
+    "kyujitai": [
+      "暢"
+    ],
+    "affectedWords": [
+      "伸長"
+    ]
+  },
+  {
+    "shinjitai": [
+      "丁"
+    ],
+    "kyujitai": [
+      "牒"
+    ],
+    "affectedWords": [
+      "符丁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "丁"
+    ],
+    "kyujitai": [
+      "恰"
+    ],
+    "affectedWords": [
+      "丁度"
+    ]
+  },
+  {
+    "shinjitai": [
+      "珍"
+    ],
+    "kyujitai": [
+      "椿"
+    ],
+    "affectedWords": [
+      "珍事"
+    ]
+  },
+  {
+    "shinjitai": [
+      "丁"
+    ],
+    "kyujitai": [
+      "鄭"
+    ],
+    "affectedWords": [
+      "丁重"
+    ]
+  },
+  {
+    "shinjitai": [
+      "丁"
+    ],
+    "kyujitai": [
+      "釘",
+      "幀"
+    ],
+    "affectedWords": [
+      "装丁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "底"
+    ],
+    "kyujitai": [
+      "柢"
+    ],
+    "affectedWords": [
+      "根底"
+    ]
+  },
+  {
+    "shinjitai": [
+      "停"
+    ],
+    "kyujitai": [
+      "碇"
+    ],
+    "affectedWords": [
+      "停泊"
+    ]
+  },
+  {
+    "shinjitai": [
+      "抵"
+    ],
+    "kyujitai": [
+      "牴"
+    ],
+    "affectedWords": [
+      "抵触"
+    ]
+  },
+  {
+    "shinjitai": [
+      "低"
+    ],
+    "kyujitai": [
+      "彽"
+    ],
+    "affectedWords": [
+      "低回"
+    ]
+  },
+  {
+    "shinjitai": [
+      "丁"
+    ],
+    "kyujitai": [
+      "叮"
+    ],
+    "affectedWords": [
+      "丁寧"
+    ]
+  },
+  {
+    "shinjitai": [
+      "転"
+    ],
+    "kyujitai": [
+      "顚",
+      "顛"
+    ],
+    "affectedWords": [
+      "転覆",
+      "転倒",
+      "転落",
+      "動転",
+      "横転",
+      "七転八倒",
+      "七転八起"
+    ]
+  },
+  {
+    "shinjitai": [
+      "典"
+    ],
+    "kyujitai": [
+      "奠"
+    ],
+    "affectedWords": [
+      "香典"
+    ]
+  },
+  {
+    "shinjitai": [
+      "展"
+    ],
+    "kyujitai": [
+      "輾"
+    ],
+    "affectedWords": [
+      "展転反側"
+    ]
+  },
+  {
+    "shinjitai": [
+      "殿"
+    ],
+    "kyujitai": [
+      "澱"
+    ],
+    "affectedWords": [
+      "沈殿",
+      "殿粉"
+    ]
+  },
+  {
+    "shinjitai": [
+      "殿"
+    ],
+    "kyujitai": [
+      "臀"
+    ],
+    "affectedWords": [
+      "殿部"
+    ]
+  },
+  {
+    "shinjitai": [
+      "途"
+    ],
+    "kyujitai": [
+      "杜"
+    ],
+    "affectedWords": [
+      "途絶"
+    ]
+  },
+  {
+    "shinjitai": [
+      "図"
+    ],
+    "kyujitai": [
+      "屠"
+    ],
+    "affectedWords": [
+      "浮図"
+    ]
+  },
+  {
+    "shinjitai": [
+      "踏"
+    ],
+    "kyujitai": [
+      "沓"
+    ],
+    "affectedWords": [
+      "雑踏"
+    ]
+  },
+  {
+    "shinjitai": [
+      "寧"
+    ],
+    "kyujitai": [
+      "嚀"
+    ],
+    "affectedWords": [
+      "丁寧"
+    ]
+  },
+  {
+    "shinjitai": [
+      "廃"
+    ],
+    "kyujitai": [
+      "癈"
+    ],
+    "affectedWords": [
+      "廃兵",
+      "廃人",
+      "廃疾",
+      "老廃"
+    ]
+  },
+  {
+    "shinjitai": [
+      "背"
+    ],
+    "kyujitai": [
+      "悖"
+    ],
+    "affectedWords": [
+      "背理",
+      "背徳",
+      "背反",
+      "背戻"
+    ]
+  },
+  {
+    "shinjitai": [
+      "俳"
+    ],
+    "kyujitai": [
+      "誹"
+    ],
+    "affectedWords": [
+      "俳風",
+      "俳諧",
+      "俳諧"
+    ]
+  },
+  {
+    "shinjitai": [
+      "梅"
+    ],
+    "kyujitai": [
+      "黴"
+    ],
+    "affectedWords": [
+      "梅毒",
+      "梅雨",
+      "検梅",
+      "駆梅"
+    ]
+  },
+  {
+    "shinjitai": [
+      "拍"
+    ],
+    "kyujitai": [
+      "搏"
+    ],
+    "affectedWords": [
+      "拍動",
+      "脈拍",
+      "心拍"
+    ]
+  },
+  {
+    "shinjitai": [
+      "迫"
+    ],
+    "kyujitai": [
+      "魄"
+    ],
+    "affectedWords": [
+      "気迫"
+    ]
+  },
+  {
+    "shinjitai": [
+      "暴"
+    ],
+    "kyujitai": [
+      "曝"
+    ],
+    "affectedWords": [
+      "暴露"
+    ]
+  },
+  {
+    "shinjitai": [
+      "漠"
+    ],
+    "kyujitai": [
+      "莫"
+    ],
+    "affectedWords": [
+      "索漠"
+    ]
+  },
+  {
+    "shinjitai": [
+      "発"
+    ],
+    "kyujitai": [
+      "醱",
+      "醗"
+    ],
+    "affectedWords": [
+      "発酵"
+    ]
+  },
+  {
+    "shinjitai": [
+      "発"
+    ],
+    "kyujitai": [
+      "撥"
+    ],
+    "affectedWords": [
+      "反発",
+      "挑発"
+    ]
+  },
+  {
+    "shinjitai": [
+      "発"
+    ],
+    "kyujitai": [
+      "潑",
+      "溌"
+    ],
+    "affectedWords": [
+      "活発"
+    ]
+  },
+  {
+    "shinjitai": [
+      "範"
+    ],
+    "kyujitai": [
+      "汎"
+    ],
+    "affectedWords": [
+      "広範"
+    ]
+  },
+  {
+    "shinjitai": [
+      "繁"
+    ],
+    "kyujitai": [
+      "蕃"
+    ],
+    "affectedWords": [
+      "繁殖"
+    ]
+  },
+  {
+    "shinjitai": [
+      "班"
+    ],
+    "kyujitai": [
+      "斑"
+    ],
+    "affectedWords": [
+      "班点",
+      "紫斑"
+    ]
+  },
+  {
+    "shinjitai": [
+      "半"
+    ],
+    "kyujitai": [
+      "袢"
+    ],
+    "affectedWords": [
+      "半纏"
+    ]
+  },
+  {
+    "shinjitai": [
+      "反"
+    ],
+    "kyujitai": [
+      "叛"
+    ],
+    "affectedWords": [
+      "反乱",
+      "反逆",
+      "反戻",
+      "反旗",
+      "反軍",
+      "反骨",
+      "反徒",
+      "謀反",
+      "離反",
+      "反す"
+    ]
+  },
+  {
+    "shinjitai": [
+      "盤"
+    ],
+    "kyujitai": [
+      "磐"
+    ],
+    "affectedWords": [
+      "盤石",
+      "落盤",
+      "岩盤"
+    ]
+  },
+  {
+    "shinjitai": [
+      "蛮"
+    ],
+    "kyujitai": [
+      "蕃"
+    ],
+    "affectedWords": [
+      "蛮族"
+    ]
+  },
+  {
+    "shinjitai": [
+      "板"
+    ],
+    "kyujitai": [
+      "鈑"
+    ],
+    "affectedWords": [
+      "板金"
+    ]
+  },
+  {
+    "shinjitai": [
+      "卑"
+    ],
+    "kyujitai": [
+      "鄙"
+    ],
+    "affectedWords": [
+      "卑見",
+      "卑俗",
+      "卑語",
+      "卑劣",
+      "卑猥",
+      "卑賤",
+      "卑賎",
+      "卑陋",
+      "卑懐",
+      "野卑"
+    ]
+  },
+  {
+    "shinjitai": [
+      "飛"
+    ],
+    "kyujitai": [
+      "蜚"
+    ],
+    "affectedWords": [
+      "飛語"
+    ]
+  },
+  {
+    "shinjitai": [
+      "非"
+    ],
+    "kyujitai": [
+      "菲"
+    ],
+    "affectedWords": [
+      "非才"
+    ]
+  },
+  {
+    "shinjitai": [
+      "比"
+    ],
+    "kyujitai": [
+      "譬"
+    ],
+    "affectedWords": [
+      "比喩"
+    ]
+  },
+  {
+    "shinjitai": [
+      "漂"
+    ],
+    "kyujitai": [
+      "飄"
+    ],
+    "affectedWords": [
+      "漂然"
+    ]
+  },
+  {
+    "shinjitai": [
+      "瓶"
+    ],
+    "kyujitai": [
+      "壜"
+    ],
+    "affectedWords": [
+      "土瓶",
+      "茶瓶",
+      "花瓶",
+      "尿瓶",
+      "燗瓶",
+      "鉄瓶",
+      "空瓶",
+      "瓶詰め",
+      "空き瓶",
+      "一升瓶"
+    ]
+  },
+  {
+    "shinjitai": [
+      "布"
+    ],
+    "kyujitai": [
+      "蒲"
+    ],
+    "affectedWords": [
+      "布団"
+    ]
+  },
+  {
+    "shinjitai": [
+      "不"
+    ],
+    "kyujitai": [
+      "腑"
+    ],
+    "affectedWords": [
+      "不甲斐"
+    ]
+  },
+  {
+    "shinjitai": [
+      "扶"
+    ],
+    "kyujitai": [
+      "榑"
+    ],
+    "affectedWords": [
+      "扶桑"
+    ]
+  },
+  {
+    "shinjitai": [
+      "普"
+    ],
+    "kyujitai": [
+      "溥"
+    ],
+    "affectedWords": [
+      "普天"
+    ]
+  },
+  {
+    "shinjitai": [
+      "風"
+    ],
+    "kyujitai": [
+      "諷"
+    ],
+    "affectedWords": [
+      "風刺",
+      "風諭"
+    ]
+  },
+  {
+    "shinjitai": [
+      "粉"
+    ],
+    "kyujitai": [
+      "扮"
+    ],
+    "affectedWords": [
+      "粉飾"
+    ]
+  },
+  {
+    "shinjitai": [
+      "憤"
+    ],
+    "kyujitai": [
+      "忿"
+    ],
+    "affectedWords": [
+      "憤怒",
+      "憤懣",
+      "憤怨",
+      "憤然"
+    ]
+  },
+  {
+    "shinjitai": [
+      "雰"
+    ],
+    "kyujitai": [
+      "氛"
+    ],
+    "affectedWords": [
+      "雰囲気"
+    ]
+  },
+  {
+    "shinjitai": [
+      "併"
+    ],
+    "kyujitai": [
+      "幷",
+      "并"
+    ],
+    "affectedWords": [
+      "併合",
+      "併呑",
+      "兼併"
+    ]
+  },
+  {
+    "shinjitai": [
+      "塀"
+    ],
+    "kyujitai": [
+      "屛",
+      "屏"
+    ],
+    "affectedWords": [
+      "板塀",
+      "土塀",
+      "練り塀"
+    ]
+  },
+  {
+    "shinjitai": [
+      "坪"
+    ],
+    "kyujitai": [
+      "蔽"
+    ],
+    "affectedWords": [
+      "建坪率"
+    ]
+  },
+  {
+    "shinjitai": [
+      "偏"
+    ],
+    "kyujitai": [
+      "扁"
+    ],
+    "affectedWords": [
+      "偏平"
+    ]
+  },
+  {
+    "shinjitai": [
+      "偏"
+    ],
+    "kyujitai": [
+      "褊"
+    ],
+    "affectedWords": [
+      "偏狭",
+      "偏衫"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弊"
+    ],
+    "kyujitai": [
+      "敝"
+    ],
+    "affectedWords": [
+      "弊衣",
+      "弊履"
+    ]
+  },
+  {
+    "shinjitai": [
+      "編"
+    ],
+    "kyujitai": [
+      "篇"
+    ],
+    "affectedWords": [
+      "編目",
+      "長編",
+      "本編",
+      "全編",
+      "短編",
+      "巨編",
+      "掌編",
+      "名編",
+      "続編",
+      "前編",
+      "中編",
+      "後編",
+      "上編",
+      "下編",
+      "佳編",
+      "新編"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弁"
+    ],
+    "kyujitai": [
+      "辮"
+    ],
+    "affectedWords": [
+      "弁髪"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弁"
+    ],
+    "kyujitai": [
+      "辦"
+    ],
+    "affectedWords": [
+      "合弁",
+      "買弁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弁"
+    ],
+    "kyujitai": [
+      "辯"
+    ],
+    "affectedWords": [
+      "弁舌",
+      "弁解",
+      "弁護",
+      "弁難",
+      "弁明",
+      "弁論",
+      "抗弁",
+      "陳弁",
+      "答弁",
+      "論弁",
+      "奇弁",
+      "口弁",
+      "多弁",
+      "駄弁",
+      "訥弁",
+      "熱弁",
+      "能弁",
+      "雄弁",
+      "大阪弁",
+      "関東弁",
+      "京都弁",
+      "博多弁",
+      "広島弁",
+      "津軽弁",
+      "秋田弁",
+      "東北弁",
+      "仙台弁",
+      "東京弁",
+      "新潟弁",
+      "信州弁",
+      "名古屋弁",
+      "関西弁",
+      "岡山弁",
+      "沖縄弁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弁"
+    ],
+    "kyujitai": [
+      "辨",
+      "辧"
+    ],
+    "affectedWords": [
+      "弁官",
+      "弁別",
+      "弁済",
+      "弁償",
+      "弁当",
+      "勘弁",
+      "支弁",
+      "自弁",
+      "思弁",
+      "駅弁",
+      "腰弁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "弁"
+    ],
+    "kyujitai": [
+      "瓣"
+    ],
+    "affectedWords": [
+      "弁膜",
+      "花弁",
+      "単弁",
+      "複弁",
+      "離弁",
+      "安全弁",
+      "僧帽弁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "補"
+    ],
+    "kyujitai": [
+      "輔"
+    ],
+    "affectedWords": [
+      "補佐",
+      "補導",
+      "補弼",
+      "補助"
+    ]
+  },
+  {
+    "shinjitai": [
+      "保"
+    ],
+    "kyujitai": [
+      "哺"
+    ],
+    "affectedWords": [
+      "保育"
+    ]
+  },
+  {
+    "shinjitai": [
+      "保"
+    ],
+    "kyujitai": [
+      "堡"
+    ],
+    "affectedWords": [
+      "堡塁",
+      "橋頭保"
+    ]
+  },
+  {
+    "shinjitai": [
+      "母"
+    ],
+    "kyujitai": [
+      "姆"
+    ],
+    "affectedWords": [
+      "保母"
+    ]
+  },
+  {
+    "shinjitai": [
+      "母"
+    ],
+    "kyujitai": [
+      "拇"
+    ],
+    "affectedWords": [
+      "母指",
+      "母印"
+    ]
+  },
+  {
+    "shinjitai": [
+      "放"
+    ],
+    "kyujitai": [
+      "抛"
+    ],
+    "affectedWords": [
+      "放棄",
+      "放擲",
+      "放却",
+      "放物"
+    ]
+  },
+  {
+    "shinjitai": [
+      "包"
+    ],
+    "kyujitai": [
+      "庖"
+    ],
+    "affectedWords": [
+      "包丁"
+    ]
+  },
+  {
+    "shinjitai": [
+      "包"
+    ],
+    "kyujitai": [
+      "繃"
+    ],
+    "affectedWords": [
+      "包帯"
+    ]
+  },
+  {
+    "shinjitai": [
+      "奉"
+    ],
+    "kyujitai": [
+      "捧"
+    ],
+    "affectedWords": [
+      "奉持"
+    ]
+  },
+  {
+    "shinjitai": [
+      "抱"
+    ],
+    "kyujitai": [
+      "捧"
+    ],
+    "affectedWords": [
+      "抱腹"
+    ]
+  },
+  {
+    "shinjitai": [
+      "砲"
+    ],
+    "kyujitai": [
+      "炮"
+    ],
+    "affectedWords": [
+      "鉄砲"
+    ]
+  },
+  {
+    "shinjitai": [
+      "傍"
+    ],
+    "kyujitai": [
+      "旁"
+    ],
+    "affectedWords": [
+      "傍点",
+      "傍注",
+      "傍線",
+      "偏傍",
+      "傍若無人"
+    ]
+  },
+  {
+    "shinjitai": [
+      "膨"
+    ],
+    "kyujitai": [
+      "厖",
+      "尨"
+    ],
+    "affectedWords": [
+      "膨大"
+    ]
+  },
+  {
+    "shinjitai": [
+      "朴"
+    ],
+    "kyujitai": [
+      "樸"
+    ],
+    "affectedWords": [
+      "朴直",
+      "朴実",
+      "素朴",
+      "簡朴",
+      "古朴",
+      "質朴"
+    ]
+  },
+  {
+    "shinjitai": [
+      "没"
+    ],
+    "kyujitai": [
+      "歿"
+    ],
+    "affectedWords": [
+      "没前",
+      "没後",
+      "没年",
+      "没地",
+      "死没",
+      "病没",
+      "戦没",
+      "陣没",
+      "生没",
+      "没す"
+    ]
+  },
+  {
+    "shinjitai": [
+      "麻"
+    ],
+    "kyujitai": [
+      "痲"
+    ],
+    "affectedWords": [
+      "麻酔",
+      "麻疹",
+      "麻痺",
+      "麻薬"
+    ]
+  },
+  {
+    "shinjitai": [
+      "迷"
+    ],
+    "kyujitai": [
+      "冥"
+    ],
+    "affectedWords": [
+      "頑迷"
+    ]
+  },
+  {
+    "shinjitai": [
+      "綿"
+    ],
+    "kyujitai": [
+      "棉"
+    ],
+    "affectedWords": [
+      "綿花",
+      "綿火薬",
+      "綿実油",
+      "陸地綿"
+    ]
+  },
+  {
+    "shinjitai": [
+      "綿"
+    ],
+    "kyujitai": [
+      "緬"
+    ],
+    "affectedWords": [
+      "綿羊"
+    ]
+  },
+  {
+    "shinjitai": [
+      "模"
+    ],
+    "kyujitai": [
+      "摸"
+    ],
+    "affectedWords": [
+      "模写",
+      "模擬",
+      "模造",
+      "模倣",
+      "模索",
+      "模作",
+      "臨模"
+    ]
+  },
+  {
+    "shinjitai": [
+      "網"
+    ],
+    "kyujitai": [
+      "罔"
+    ],
+    "affectedWords": [
+      "網羅",
+      "網頭"
+    ]
+  },
+  {
+    "shinjitai": [
+      "邪"
+    ],
+    "kyujitai": [
+      "耶"
+    ],
+    "affectedWords": [
+      "邪馬台国"
+    ]
+  },
+  {
+    "shinjitai": [
+      "役"
+    ],
+    "kyujitai": [
+      "軛"
+    ],
+    "affectedWords": [
+      "共役"
+    ]
+  },
+  {
+    "shinjitai": [
+      "諭"
+    ],
+    "kyujitai": [
+      "喩"
+    ],
+    "affectedWords": [
+      "風諭"
+    ]
+  },
+  {
+    "shinjitai": [
+      "遊"
+    ],
+    "kyujitai": [
+      "游"
+    ],
+    "affectedWords": [
+      "遊泳",
+      "遊弋",
+      "遊動",
+      "遊侠",
+      "遊民",
+      "遊魚",
+      "浮遊",
+      "回遊",
+      "群遊"
+    ]
+  },
+  {
+    "shinjitai": [
+      "右"
+    ],
+    "kyujitai": [
+      "祐"
+    ],
+    "affectedWords": [
+      "右筆"
+    ]
+  },
+  {
+    "shinjitai": [
+      "憂"
+    ],
+    "kyujitai": [
+      "悒"
+    ],
+    "affectedWords": [
+      "憂鬱"
+    ]
+  },
+  {
+    "shinjitai": [
+      "世"
+    ],
+    "kyujitai": [
+      "輿"
+    ],
+    "affectedWords": [
+      "世論"
+    ]
+  },
+  {
+    "shinjitai": [
+      "溶"
+    ],
+    "kyujitai": [
+      "鎔",
+      "熔"
+    ],
+    "affectedWords": [
+      "溶接",
+      "溶剤",
+      "溶岩",
+      "溶解",
+      "溶炉",
+      "溶融",
+      "溶鉱炉",
+      "溶成燐肥"
+    ]
+  },
+  {
+    "shinjitai": [
+      "用"
+    ],
+    "kyujitai": [
+      "傭"
+    ],
+    "affectedWords": [
+      "用船",
+      "雇用",
+      "被用者"
+    ]
+  },
+  {
+    "shinjitai": [
+      "欲"
+    ],
+    "kyujitai": [
+      "慾"
+    ],
+    "affectedWords": [
+      "強欲",
+      "我欲",
+      "情欲",
+      "物欲",
+      "貪欲",
+      "食欲",
+      "禁欲",
+      "大欲",
+      "愛欲",
+      "色欲"
+    ]
+  },
+  {
+    "shinjitai": [
+      "乱"
+    ],
+    "kyujitai": [
+      "爛"
+    ],
+    "affectedWords": [
+      "腐乱"
+    ]
+  },
+  {
+    "shinjitai": [
+      "乱"
+    ],
+    "kyujitai": [
+      "瀾"
+    ],
+    "affectedWords": [
+      "波乱"
+    ]
+  },
+  {
+    "shinjitai": [
+      "欄"
+    ],
+    "kyujitai": [
+      "闌"
+    ],
+    "affectedWords": [
+      "欄干"
+    ]
+  },
+  {
+    "shinjitai": [
+      "里"
+    ],
+    "kyujitai": [
+      "俚"
+    ],
+    "affectedWords": [
+      "里言",
+      "里諺",
+      "里謡"
+    ]
+  },
+  {
+    "shinjitai": [
+      "利"
+    ],
+    "kyujitai": [
+      "悧"
+    ],
+    "affectedWords": [
+      "利口"
+    ]
+  },
+  {
+    "shinjitai": [
+      "略"
+    ],
+    "kyujitai": [
+      "掠"
+    ],
+    "affectedWords": [
+      "略奪",
+      "略取",
+      "侵略",
+      "殺略",
+      "劫略",
+      "奪略"
+    ]
+  },
+  {
+    "shinjitai": [
+      "留"
+    ],
+    "kyujitai": [
+      "溜"
+    ],
+    "affectedWords": [
+      "留出",
+      "留分",
+      "蒸留",
+      "分留",
+      "乾留",
+      "貯留"
+    ]
+  },
+  {
+    "shinjitai": [
+      "粒"
+    ],
+    "kyujitai": [
+      "瘤"
+    ],
+    "affectedWords": [
+      "根粒"
+    ]
+  },
+  {
+    "shinjitai": [
+      "了"
+    ],
+    "kyujitai": [
+      "諒"
+    ],
+    "affectedWords": [
+      "了解",
+      "了承",
+      "了察"
+    ]
+  },
+  {
+    "shinjitai": [
+      "了"
+    ],
+    "kyujitai": [
+      "瞭"
+    ],
+    "affectedWords": [
+      "了然",
+      "明了"
+    ]
+  },
+  {
+    "shinjitai": [
+      "両"
+    ],
+    "kyujitai": [
+      "輛",
+      "輌"
+    ],
+    "affectedWords": [
+      "車両"
+    ]
+  },
+  {
+    "shinjitai": [
+      "陵"
+    ],
+    "kyujitai": [
+      "凌"
+    ],
+    "affectedWords": [
+      "陵駕",
+      "陵虐",
+      "陵轢",
+      "陵侮",
+      "陵辱",
+      "陵ず"
+    ]
+  },
+  {
+    "shinjitai": [
+      "涼"
+    ],
+    "kyujitai": [
+      "寥"
+    ],
+    "affectedWords": [
+      "荒涼"
+    ]
+  },
+  {
+    "shinjitai": [
+      "量"
+    ],
+    "kyujitai": [
+      "倆"
+    ],
+    "affectedWords": [
+      "技量"
+    ]
+  },
+  {
+    "shinjitai": [
+      "励"
+    ],
+    "kyujitai": [
+      "厲"
+    ],
+    "affectedWords": [
+      "励声",
+      "励行"
+    ]
+  },
+  {
+    "shinjitai": [
+      "歴"
+    ],
+    "kyujitai": [
+      "瀝"
+    ],
+    "affectedWords": [
+      "披歴"
+    ]
+  },
+  {
+    "shinjitai": [
+      "練"
+    ],
+    "kyujitai": [
+      "煉"
+    ],
+    "affectedWords": [
+      "練炭",
+      "練丹",
+      "練乳",
+      "練薬",
+      "試練",
+      "洗練",
+      "精練"
+    ]
+  },
+  {
+    "shinjitai": [
+      "連"
+    ],
+    "kyujitai": [
+      "聯"
+    ],
+    "affectedWords": [
+      "連合",
+      "連盟",
+      "連碁",
+      "連合",
+      "連想",
+      "連珠",
+      "連弾",
+      "連歌",
+      "連絡",
+      "連邦",
+      "連立",
+      "連係",
+      "連繋",
+      "連関",
+      "連隊",
+      "関連"
+    ]
+  },
+  {
+    "shinjitai": [
+      "労"
+    ],
+    "kyujitai": [
+      "撈"
+    ],
+    "affectedWords": [
+      "漁労"
+    ]
+  },
+  {
+    "shinjitai": [
+      "労"
+    ],
+    "kyujitai": [
+      "癆"
+    ],
+    "affectedWords": [
+      "労咳"
+    ]
+  },
+  {
+    "shinjitai": [
+      "録"
+    ],
+    "kyujitai": [
+      "祿",
+      "禄"
+    ],
+    "affectedWords": [
+      "貫録"
+    ]
+  },
+  {
+    "shinjitai": [
+      "和"
+    ],
+    "kyujitai": [
+      "倭"
+    ],
+    "affectedWords": [
+      "和人",
+      "和学",
+      "和歌",
+      "和語",
+      "和名",
+      "和国",
+      "和朝"
+    ]
+  },
+  {
+    "shinjitai": [
+      "湾"
+    ],
+    "kyujitai": [
+      "彎"
+    ],
+    "affectedWords": [
+      "湾曲",
+      "湾入",
+      "湾月",
+      "湾屈",
+      "側湾症"
+    ]
+  },
+  {
+    "shinjitai": [
+      "一"
+    ],
+    "kyujitai": [
+      "乙"
+    ],
+    "affectedWords": [
+      "不一"
+    ]
+  },
+  {
+    "shinjitai": [
+      "順"
+    ],
+    "kyujitai": [
+      "遵"
+    ],
+    "affectedWords": [
+      "順守",
+      "順法"
+    ]
+  },
+  {
+    "shinjitai": [
+      "送"
+    ],
+    "kyujitai": [
+      "槽"
+    ],
+    "affectedWords": [
+      "油送船"
+    ]
+  },
+  {
+    "shinjitai": [
+      "張"
+    ],
+    "kyujitai": [
+      "脹"
+    ],
+    "affectedWords": [
+      "膨張"
+    ]
+  },
+  {
+    "shinjitai": [
+      "付"
+    ],
+    "kyujitai": [
+      "附"
+    ],
+    "affectedWords": [
+      "付録",
+      "付記",
+      "付随",
+      "付属",
+      "付箋",
+      "付着",
+      "添付",
+      "寄付"
+    ]
+  },
+  {
+    "shinjitai": [
+      "木"
+    ],
+    "kyujitai": [
+      "朴"
+    ],
+    "affectedWords": [
+      "木訥"
+    ]
+  },
+  {
+    "shinjitai": [
+      "摩"
+    ],
+    "kyujitai": [
+      "磨"
+    ],
+    "affectedWords": [
+      "磨滅",
+      "磨損",
+      "磨耗",
+      "研磨"
+    ]
+  },
+  {
+    "shinjitai": [
+      "盲"
+    ],
+    "kyujitai": [
+      "妄"
+    ],
+    "affectedWords": [
+      "盲信"
+    ]
+  },
+  {
+    "shinjitai": [
+      "裕"
+    ],
+    "kyujitai": [
+      "悠"
+    ],
+    "affectedWords": [
+      "裕然"
+    ]
+  },
+  {
+    "shinjitai": [
+      "乱"
+    ],
+    "kyujitai": [
+      "濫"
+    ],
+    "affectedWords": [
+      "乱用",
+      "乱造",
+      "乱発",
+      "乱獲",
+      "乱掘",
+      "乱伐",
+      "乱作",
+      "乱売",
+      "乱立",
+      "乱悪"
+    ]
+  },
+  {
+    "shinjitai": [
+      "練"
+    ],
+    "kyujitai": [
+      "錬"
+    ],
+    "affectedWords": [
+      "練熟",
+      "練成",
+      "練鉄",
+      "練磨",
+      "鍛練",
+      "修練",
+      "精練"
+    ]
+  }
+]
