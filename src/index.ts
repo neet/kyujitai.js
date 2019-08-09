@@ -1,4 +1,4 @@
-import { Dataset, Exclusion } from './types';
+import { Dataset, Exclusion, Glyph } from './types';
 
 export interface KyujitaiConstructorParams {
   compiledDataset: CompiledDataest;
@@ -8,21 +8,19 @@ export interface InitParams {
   dataset: Dataset;
 }
 
-interface Entry {
+export interface Entry {
   priority: number;
-  glyphs: { [key in GlyphType]: string };
+  glyphs: { [key in keyof Glyph]: string };
 }
 
-interface CompiledDataest {
+export interface CompiledDataest {
   entries: Entry[];
   exclusions: Exclusion[];
 }
 
-type GlyphType = 'kyujitai' | 'shinjitai';
-
-interface TransformGlyphParams {
-  from: GlyphType;
-  to: GlyphType;
+export interface TransformGlyphParams {
+  from: keyof Glyph;
+  to: keyof Glyph;
 }
 
 export class Kyujitai {
