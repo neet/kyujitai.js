@@ -4,25 +4,7 @@
  */
 import glyphs from '../data/glyphs.json';
 import doons from '../data/doons.json';
-
-export interface Glyph {
-  shinjitai: string;
-  kyujitai: string;
-}
-
-export interface DoonMap {
-  kyujitai: string[];
-  shinjitai: string[];
-  affectedWords: string[];
-}
-
-export type Exclusion = string;
-
-export interface Dataset {
-  glyphs: Glyph[];
-  doons: DoonMap[];
-  exclusions: Exclusion[];
-}
+import { Dataset } from './types';
 
 export const dataset: Dataset = {
   glyphs,

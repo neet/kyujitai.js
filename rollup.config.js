@@ -13,13 +13,13 @@ const formatMap = {
   module: 'esm',
 };
 
-export default ['main', 'browser', 'module'].map(dist => ({
+export default ['main', 'module'].map(dist => ({
   input: {
     index: './src/index.ts',
     dataset: './src/dataset.ts',
   },
   output: {
-    dir: './dist/',
+    dir: `./dist/${dist}`,
     name: packageJSON.name,
     format: formatMap[dist],
     exports: 'named',

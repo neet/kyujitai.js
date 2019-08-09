@@ -1,56 +1,29 @@
 # @neetshin/kyujitai.js
 
-> 🙏The dataset of the kyujitais are largely borrowed from **[hakatashi/kyujitai.js](https://github.com/hakatashi/kyujitai.js)**
+> 🙏The datasets and algorithms are largely borrowed from **[hakatashi/kyujitai.js](https://github.com/hakatashi/kyujitai.js)**
 
 Utility collections for making Japanese text old-fashioned.
 
-## install
+## installation
 
-    npm install kyujitai
-
-## Use
-
-```javascript
-var Kyujitai = require("kyujitai");
-var kyujitai = new Kyujitai(function(error) {
-  kyujitai.encode("旧字体"); // -> '舊字體'
-});
+```
+npm install @neetshin/kyujitai
 ```
 
 ## Usage
 
-### new Kyujitai([options], [callback])
+```js
+import { Kyujitai } from '@neetshin/kyujitai.js';
+import { dataset } from '@neetshin/kyujitai.js/dataset';
 
-Constructor.
+const kyujitai = await Kyujitai.init({ dataset });
 
-- `options`: Objerct, options.
-- `callback`: Function(error), called when construction completed.
-  - `error`: Error, supplied if construction failed.
-
-### kyujitai.encode(string, [options])
-
-Encode string from shinjitai to kyujitai.
-
-- `string`: String, to encode.
-- `options`: Object, options.
-  - `options.IVD`: Boolean, true if use IVS for encoded string. Default is false.
-- Returns: String, encoded string.
-
-```javascript
-kyujitai.encode("旧字体"); // -> '舊字體'
-
-kyujitai.encode("画期的図画"); // -> '劃期的圖畫'
-
-kyujitai.encode("弁明"); // -> '辯明'
-kyujitai.encode("弁償"); // -> '辨償'
-kyujitai.encode("花弁"); // -> '花瓣'
-kyujitai.encode("弁髪"); // -> '辮髮'
+kyujitai.kyujitaize(`
+  台風は旧字体でこのように書きますが、台湾はこのように書きます。
+`);
+// --> 颱風は舊字體でこのように書きますが、臺灣はこのように書きます。
 ```
 
-### kyujitai.decode(string, [options])
+## License
 
-Decode string from kyujitai to shinjitai.
-
-- `string`: String, to encode.
-- `options`: Object, options.
-- Returns: String, decoded string.
+MIT
