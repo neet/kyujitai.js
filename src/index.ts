@@ -1,4 +1,4 @@
-import { Dataset, Exclusion, Glyph } from './types';
+import { Dataset, Exclusion, Glyph } from './dataset';
 
 export interface KyujitaiConstructorParams {
   compiledDataset: CompiledDataest;
