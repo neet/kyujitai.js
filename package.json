@@ -35,6 +35,10 @@
     "README.md",
     "dist"
   ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/neet/kyujitai.js.git"
