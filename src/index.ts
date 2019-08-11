@@ -74,7 +74,10 @@ export class Kyujitai {
     return compiledDataset;
   };
 
-  private transformGlyph = (target: string, params: TransformGlyphParams) => {
+  private transformGlyph = async (
+    target: string,
+    params: TransformGlyphParams,
+  ) => {
     const { from: sourceGlyph, to: targetGlyph } = params;
     let result = target;
 
@@ -88,11 +91,17 @@ export class Kyujitai {
     return result;
   };
 
-  kyujitaize = (target: string) => {
-    return this.transformGlyph(target, { from: 'shinjitai', to: 'kyujitai' });
+  kyujitaize = async (target: string) => {
+    return await this.transformGlyph(target, {
+      from: 'shinjitai',
+      to: 'kyujitai',
+    });
   };
 
-  shinjitaize = (target: string) => {
-    return this.transformGlyph(target, { from: 'kyujitai', to: 'shinjitai' });
+  shinjitaize = async (target: string) => {
+    return await this.transformGlyph(target, {
+      from: 'kyujitai',
+      to: 'shinjitai',
+    });
   };
 }
