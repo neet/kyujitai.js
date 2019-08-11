@@ -32,7 +32,14 @@ export default formats.map(({ dist, format }) => ({
     }),
     commonjs(),
     json(),
-    typescript(),
+    typescript({
+      useTsconfigDeclarationDir: true,
+      tsconfigOverride: {
+        compilerOptions: {
+          declarationDir: './dist',
+        },
+      },
+    }),
     terser(),
     autoExternal(),
   ],
