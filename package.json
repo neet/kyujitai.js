@@ -30,6 +30,10 @@
     "rollup-plugin-typescript2": "^0.22.1",
     "typescript": "^3.5.3"
   },
+  "files": [
+    "README.md",
+    "dist"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/neet/kyujitai.js.git"
