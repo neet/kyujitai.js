@@ -4,7 +4,8 @@
   "description": "Utility collections for making Japanese text old-fashioned.",
   "author": "Ryo Igarashi <n33t5hin@gmail.com>",
   "license": "MIT",
-  "main": "./dist/index.js",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
   "scripts": {
     "build": "rollup -c rollup.config.js"
   },
@@ -24,7 +25,6 @@
     "rollup-plugin-auto-external": "^2.0.0",
     "rollup-plugin-commonjs": "^10.0.2",
     "rollup-plugin-json": "^4.0.0",
-    "rollup-plugin-node-builtins": "^2.1.2",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-terser": "^5.1.1",
     "rollup-plugin-typescript2": "^0.22.1",

@@ -3,37 +3,37 @@ import commonjs from 'rollup-plugin-commonjs';
 import json from 'rollup-plugin-json';
 import resolve from 'rollup-plugin-node-resolve';
 import typescript from 'rollup-plugin-typescript2';
-import builtins from 'rollup-plugin-node-builtins';
 import autoExternal from 'rollup-plugin-auto-external';
 import packageJSON from './package.json';
 
-const formatMap = {
-  main: 'cjs',
-  browser: 'umd',
-  module: 'esm',
-};
-
-export default ['main', 'module'].map(dist => ({
-  input: {
-    index: './src/index.ts',
-    dataset: './src/dataset.ts',
+const formats = [
+  {
+    format: 'cjs',
+    dist: 'main',
   },
+  {
+    format: 'esm',
+    dist: 'module',
+  },
+];
+
+export default formats.map(({ dist, format }) => ({
+  input: ['./src/index.ts', './src/dataset.ts'],
   output: {
-    dir: `./dist/${dist}`,
     name: packageJSON.name,
-    format: formatMap[dist],
+    format,
+    dir: `./dist/${dist}`,
+    entryFileNames: `[name].${dist === 'module' ? 'mjs' : 'js'}`,
     exports: 'named',
   },
   plugins: [
     resolve({
       preferBuiltins: true,
-      browser: dist === 'browser',
     }),
-    dist === 'browser' && builtins(),
     commonjs(),
     json(),
     typescript(),
     terser(),
-    dist !== 'browser' && autoExternal(),
+    autoExternal(),
   ],
 }));

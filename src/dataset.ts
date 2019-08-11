@@ -2,8 +2,8 @@
  * This module is expected to be imported by end-users not inside this repository
  * because those datasets are too large so it should be dynamically imported
  */
-import glyphs from '../data/glyphs.json';
-import doons from '../data/doons.json';
+import glyphs from './data/glyphs.json';
+import doons from './data/doons.json';
 
 export interface Glyph {
   shinjitai: string;
