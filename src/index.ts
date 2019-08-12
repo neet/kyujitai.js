@@ -83,7 +83,7 @@ export class Kyujitai {
 
     for (const entry of this.compiledDataset.entries) {
       result = result.replace(
-        entry.glyphs[sourceGlyph],
+        new RegExp(entry.glyphs[sourceGlyph], 'g'),
         entry.glyphs[targetGlyph],
       );
     }
