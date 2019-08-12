@@ -1,6 +1,6 @@
 {
   "name": "@neetshin/kyujitai",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "Utility collections for making Japanese text old-fashioned.",
   "author": "Ryo Igarashi <n33t5hin@gmail.com>",
   "license": "MIT",
@@ -33,7 +33,9 @@
   },
   "files": [
     "README.md",
-    "dist"
+    "esm",
+    "cjs",
+    "types"
   ],
   "private": false,
   "publishConfig": {
