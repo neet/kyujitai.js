@@ -17,13 +17,13 @@ const formats = [
   },
 ];
 
-export default formats.map(({ dist, format }) => ({
+export default formats.map(({ format }) => ({
   input: ['./src/index.ts', './src/dataset.ts'],
   output: {
     name: packageJSON.name,
     format,
-    dir: `./dist/${dist}`,
-    entryFileNames: `[name].${dist === 'module' ? 'mjs' : 'js'}`,
+    dir: `./${format}`,
+    entryFileNames: `[name].${format === 'esm' ? 'mjs' : 'js'}`,
     exports: 'named',
   },
   plugins: [
@@ -36,7 +36,7 @@ export default formats.map(({ dist, format }) => ({
       useTsconfigDeclarationDir: true,
       tsconfigOverride: {
         compilerOptions: {
-          declarationDir: './dist',
+          declarationDir: './types',
         },
       },
     }),
