@@ -16,6 +16,7 @@ export interface Entry {
 export interface CompiledDataest {
   entries: Entry[];
   exclusions: Exclusion[];
+  glyphRegExps: { [key in keyof Glyph]: RegExp };
 }
 
 export interface TransformGlyphParams {
@@ -41,7 +42,10 @@ export class Kyujitai {
     for (const glyph of dataset.glyphs) {
       entries.push({
         priority: 0,
-        glyphs: glyph,
+        glyphs: {
+          shinjitai: glyph.shinjitai,
+          kyujitai: glyph.kyujitai,
+        },
       });
     }
 
@@ -54,7 +58,6 @@ export class Kyujitai {
               (prev, cur) => prev.replace(cur, doon.kyujitai[0]),
               affectedWord,
             ),
-
             shinjitai: doon.kyujitai.reduce(
               (prev, cur) => prev.replace(cur, doon.shinjitai[0]),
               affectedWord,
@@ -66,9 +69,23 @@ export class Kyujitai {
 
     entries = entries.sort((a, b) => b.priority - a.priority);
 
+    const shinjitaiRegExp = new RegExp(
+      '(' + entries.map(entry => entry.glyphs.shinjitai).join('|') + ')',
+      'g',
+    );
+
+    const kyujitaiRegExp = new RegExp(
+      '(' + entries.map(entry => entry.glyphs.shinjitai).join('|') + ')',
+      'g',
+    );
+
     const compiledDataset: CompiledDataest = {
       entries,
       exclusions: dataset.exclusions,
+      glyphRegExps: {
+        shinjitai: shinjitaiRegExp,
+        kyujitai: kyujitaiRegExp,
+      },
     };
 
     return compiledDataset;
@@ -79,14 +96,18 @@ export class Kyujitai {
     params: TransformGlyphParams,
   ) => {
     const { from: sourceGlyph, to: targetGlyph } = params;
+    const { entries, glyphRegExps } = this.compiledDataset;
     let result = target;
 
-    for (const entry of this.compiledDataset.entries) {
-      result = result.replace(
-        new RegExp(entry.glyphs[sourceGlyph], 'g'),
-        entry.glyphs[targetGlyph],
-      );
-    }
+    result = result.replace(glyphRegExps[sourceGlyph], char => {
+      const match = entries.find(entry => entry.glyphs[sourceGlyph] === char);
+
+      if (!match) {
+        throw new Error(`Unexpected regexp match "${char}"`);
+      }
+
+      return match.glyphs[targetGlyph];
+    });
 
     return result;
   };
