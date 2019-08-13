@@ -13,8 +13,15 @@ export interface Entry {
   glyphs: { [key in keyof Glyph]: string };
 }
 
+export type EntriesDict = {
+  [key in keyof Glyph]: {
+    [key: string]: Entry;
+  };
+};
+
 export interface CompiledDataest {
   entries: Entry[];
+  entriesDict: EntriesDict;
   exclusions: Exclusion[];
   glyphRegExps: { [key in keyof Glyph]: RegExp };
 }
@@ -40,13 +47,14 @@ export class Kyujitai {
     let entries: Entry[] = [];
 
     for (const glyph of dataset.glyphs) {
-      entries.push({
+      const entry = {
         priority: 0,
         glyphs: {
           shinjitai: glyph.shinjitai,
           kyujitai: glyph.kyujitai,
         },
-      });
+      };
+      entries.push(entry);
     }
 
     for (const doon of dataset.doons) {
@@ -79,9 +87,29 @@ export class Kyujitai {
       'g',
     );
 
+    const shinjitaiEntreisDict = entries.reduce<{ [key: string]: Entry }>(
+      (prev, cur) => {
+        prev[cur.glyphs.shinjitai] = cur;
+        return prev;
+      },
+      {},
+    );
+
+    const kyujitaiEntriesDict = entries.reduce<{ [key: string]: Entry }>(
+      (prev, cur) => {
+        prev[cur.glyphs.kyujitai] = cur;
+        return prev;
+      },
+      {},
+    );
+
     const compiledDataset: CompiledDataest = {
       entries,
       exclusions: dataset.exclusions,
+      entriesDict: {
+        shinjitai: shinjitaiEntreisDict,
+        kyujitai: kyujitaiEntriesDict,
+      },
       glyphRegExps: {
         shinjitai: shinjitaiRegExp,
         kyujitai: kyujitaiRegExp,
@@ -96,20 +124,21 @@ export class Kyujitai {
     params: TransformGlyphParams,
   ) => {
     const { from: sourceGlyph, to: targetGlyph } = params;
-    const { entries, glyphRegExps } = this.compiledDataset;
-    let result = target;
+    const { entriesDict, glyphRegExps, exclusions } = this.compiledDataset;
 
-    result = result.replace(glyphRegExps[sourceGlyph], char => {
-      const match = entries.find(entry => entry.glyphs[sourceGlyph] === char);
+    return target.replace(glyphRegExps[sourceGlyph], char => {
+      const match = entriesDict[sourceGlyph][char];
 
       if (!match) {
         throw new Error(`Unexpected regexp match "${char}"`);
       }
 
+      if (exclusions.includes(char)) {
+        return char;
+      }
+
       return match.glyphs[targetGlyph];
     });
-
-    return result;
   };
 
   kyujitaize = async (target: string) => {
