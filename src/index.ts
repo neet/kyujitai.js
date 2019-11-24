@@ -1,143 +1,67 @@
-import { Dataset, Exclusion, Glyph } from './dataset';
+import { Dataset, GlyphType } from './dataset';
+import { DatasetCompiler, CompiledDataest } from './dataset-compiler';
 
+/** Constructor params */
 export interface KyujitaiConstructorParams {
   compiledDataset: CompiledDataest;
 }
 
+/** Params of Kyujita#init */
 export interface InitParams {
   dataset: Dataset;
 }
 
-export interface Entry {
-  priority: number;
-  glyphs: { [key in keyof Glyph]: string };
-}
-
-export type EntriesDict = {
-  [key in keyof Glyph]: {
-    [key: string]: Entry;
-  };
-};
-
-export interface CompiledDataest {
-  entries: Entry[];
-  entriesDict: EntriesDict;
-  exclusions: Exclusion[];
-  glyphRegExps: { [key in keyof Glyph]: RegExp };
-}
-
+/** Params for Kyujitai.transformGlyph */
 export interface TransformGlyphParams {
-  from: keyof Glyph;
-  to: keyof Glyph;
+  from: GlyphType;
+  to: GlyphType;
 }
 
 export class Kyujitai {
+  /** Compiled dataset */
   readonly compiledDataset: CompiledDataest;
 
+  /**
+   * Public constructor
+   * @param params Parameters
+   * @return Kyujitai instance
+   */
+  static init = async (params: InitParams) => {
+    const compiledDataset = await new DatasetCompiler(params.dataset).compile();
+    return new Kyujitai({ compiledDataset });
+  };
+
+  /**
+   * Private constructor
+   * @param params Parameters
+   */
   private constructor(params: KyujitaiConstructorParams) {
     this.compiledDataset = params.compiledDataset;
   }
 
-  static init = async (params: InitParams) => {
-    const compiledDataset = await Kyujitai.compileDataset(params.dataset);
-    return new Kyujitai({ compiledDataset });
-  };
-
-  private static compileDataset = async (dataset: Dataset) => {
-    let entries: Entry[] = [];
-
-    for (const glyph of dataset.glyphs) {
-      const entry = {
-        priority: 0,
-        glyphs: {
-          shinjitai: glyph.shinjitai,
-          kyujitai: glyph.kyujitai,
-        },
-      };
-      entries.push(entry);
-    }
-
-    for (const doon of dataset.doons) {
-      for (const affectedWord of doon.affectedWords) {
-        entries.push({
-          priority: 1,
-          glyphs: {
-            kyujitai: doon.shinjitai.reduce(
-              (prev, cur) => prev.replace(cur, doon.kyujitai[0]),
-              affectedWord,
-            ),
-            shinjitai: doon.kyujitai.reduce(
-              (prev, cur) => prev.replace(cur, doon.shinjitai[0]),
-              affectedWord,
-            ),
-          },
-        });
-      }
-    }
-
-    entries = entries.sort((a, b) => b.priority - a.priority);
-
-    const shinjitaiRegExp = new RegExp(
-      '(' + entries.map(entry => entry.glyphs.shinjitai).join('|') + ')',
-      'g',
-    );
-
-    const kyujitaiRegExp = new RegExp(
-      '(' + entries.map(entry => entry.glyphs.shinjitai).join('|') + ')',
-      'g',
-    );
-
-    const shinjitaiEntreisDict = entries.reduce<{ [key: string]: Entry }>(
-      (prev, cur) => {
-        prev[cur.glyphs.shinjitai] = cur;
-        return prev;
-      },
-      {},
-    );
-
-    const kyujitaiEntriesDict = entries.reduce<{ [key: string]: Entry }>(
-      (prev, cur) => {
-        prev[cur.glyphs.kyujitai] = cur;
-        return prev;
-      },
-      {},
-    );
-
-    const compiledDataset: CompiledDataest = {
-      entries,
-      exclusions: dataset.exclusions,
-      entriesDict: {
-        shinjitai: shinjitaiEntreisDict,
-        kyujitai: kyujitaiEntriesDict,
-      },
-      glyphRegExps: {
-        shinjitai: shinjitaiRegExp,
-        kyujitai: kyujitaiRegExp,
-      },
-    };
-
-    return compiledDataset;
-  };
-
+  /**
+   * Alter the glyph of a character to another glyph
+   * @param target Target string
+   * @param params Options
+   * @return Transformed string
+   */
   private transformGlyph = async (
     target: string,
     params: TransformGlyphParams,
   ) => {
-    const { from: sourceGlyph, to: targetGlyph } = params;
     const { entriesDict, glyphRegExps, exclusions } = this.compiledDataset;
+    const { from: fromGlyph, to: toGlyph } = params;
 
-    return target.replace(glyphRegExps[sourceGlyph], char => {
-      const match = entriesDict[sourceGlyph][char];
+    const activeRegExp = glyphRegExps[fromGlyph];
+    const activeEntries = entriesDict[fromGlyph];
 
-      if (!match) {
-        throw new Error(`Unexpected regexp match "${char}"`);
-      }
+    return target.replace(activeRegExp, char => {
+      if (exclusions.includes(char)) return char;
 
-      if (exclusions.includes(char)) {
-        return char;
-      }
+      const match = activeEntries[char];
+      if (!match) throw new Error(`Unexpected regexp match "${char}"`);
 
-      return match.glyphs[targetGlyph];
+      return match.glyphs[toGlyph];
     });
   };
 
