@@ -13,15 +13,18 @@ npm install @neetshin/kyujitai
 ## Usage
 
 ```js
-import { Kyujitai } from '@neetshin/kyujitai.js';
-import { dataset } from '@neetshin/kyujitai.js/dataset';
+import { Kyujitai } from '@neetshin/kyujitai';
 
-const kyujitai = await Kyujitai.init({ dataset });
+async function main() {
+  const { dataset } = await import('@neetshin/kyujitai/dataset');
+  const kyujitai = await Kyujitai.init({ dataset });
 
-kyujitai.kyujitaize(`
-  台風は旧字体でこのように書きますが、台湾はこのように書きます。
-`);
-// --> 颱風は舊字體でこのように書きますが、臺灣はこのように書きます。
+  kyujitai.kyujitaize(`
+    台風は旧字体でこのように書きますが、台湾はこのように書きます。
+  `);
+
+  // --> 颱風は舊字體でこのように書きますが、臺灣はこのように書きます。
+}
 ```
 
 ## License
