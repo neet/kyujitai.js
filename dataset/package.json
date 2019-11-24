@@ -1,0 +1,8 @@
+{
+  "name": "@neetshin/kyujitai",
+  "private": true,
+  "license": "MIT",
+  "main": "../cjs/dataset.js",
+  "module": "../esm/dataset.mjs",
+  "types": "../types/dataset.d.ts"
+}

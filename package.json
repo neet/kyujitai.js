@@ -35,7 +35,8 @@
     "README.md",
     "esm",
     "cjs",
-    "types"
+    "types",
+    "dataset"
   ],
   "private": false,
   "publishConfig": {
