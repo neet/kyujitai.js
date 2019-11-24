@@ -11,6 +11,7 @@
     "build": "rollup -c rollup.config.js"
   },
   "devDependencies": {
+    "@types/jest": "^24.0.23",
     "@typescript-eslint/eslint-plugin": "^1.13.0",
     "@typescript-eslint/parser": "^1.13.0",
     "codecov": "^3.5.0",
@@ -19,7 +20,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.0",
     "husky": "^3.0.2",
-    "jest": "^24.8.0",
+    "jest": "^24.9.0",
     "lint-staged": "^9.2.1",
     "prettier": "^1.18.2",
     "rollup": "^1.19.4",
@@ -29,6 +30,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-terser": "^5.1.1",
     "rollup-plugin-typescript2": "^0.22.1",
+    "ts-jest": "^24.2.0",
     "typescript": "^3.5.3"
   },
   "files": [
